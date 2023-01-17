@@ -1,141 +1,106 @@
 {
-  "lessons": [
-    {
-      "id": 1,
-      "title": "Computer fundamentals",
-      "resources": [
+    "lessons": [
         {
-          "id": 1,
-          "subTitle": "Introduction to computer",
-          "image": "https://media.discordapp.net/attachments/1059720863307538503/1061578242575839253/operating-system.png?width=1073&height=663",
-          "description": "A computer is an electronic devices that takes input in the form of data and information, process it, gives meaningful output and store it. Computers are everywhere at school, home, bank, supermarket etc. The parts of a computer include the monitor, which displays information; the keyboard, which is used to type; the mouse, which is used to click; and the computer itself, which houses the computer's components.",
-          "points": [
-            {
-              "pointTitle": "",
-              "pointDescription": " ",
-              "subPoints": [
-                {
-                  "subpointTitle": "",
-                  "subpointDescription": ""
-                }
-              ]
-            }
-          ],
-          "completion": false,
-          "bookmark": false
-        },
-        {
-          "id": 2,
-          "title": "Turn on/off computer",
-          "image": "assets",
-          "description": "A computer is an electronic devices that takes input in the form of data and information, process it, gives meaningful output and store it. Computers are everywhere at school, home, bank, supermarket etc. The parts of a computer include the monitor, which displays information; the keyboard, which is used to type; the mouse, which is used to click; and the computer itself, which houses the computer's components.",
-          "points": [
-            {
-              "pointTitle": "Turn on computer",
-              "pointDescription": " ",
-              "subPoints": [
-                {
-                  "subpointTitle": " ",
-                  "subpointDescription": "Step 1: Check the computer is connected to the power supply(main plug) and main plug is ON."
-                },
-                {
-                  "subpointTitle": "",
-                  "subpointDescription": "Step 2: Find the ON/OFF button on the computer system and push the button."
-                },
-                {
-                  "subpointTitle": "",
-                  "subpointDescription": "Step 3: Switch ON the monitor incase it is OFF."
-                },
-                {
-                  "subpointTitle": "",
-                  "subpointDescription": ""
-                }
-              ]
-            },
-            {
-              "pointTitle": "Turno off computer",
-              "pointDescription": " ",
-              "subPoints": [
-                {
-                  "subpointTitle": "",
-                  "subpointDescription": ""
-                }
-              ]
-            }
-          ],
-          "completion": false,
-          "bookmark": false
+            "id": 1,
+            "title": "Computer fundamentals",
+            "resources": [
+              {
+                "id": 1,
+                "type": "QuestionAnswer",
+                "question": "Introduction to Computer                ",
+                "image": "",
+                "answer": "A computer is an electronic devices that takes input in the form of data and information, process it, gives meaningful output and store it. Computers are everywhere at school, home, bank, supermarket etc. The parts of a computer include the monitor, which displays information; the keyboard, which is used to type; the mouse, which is used to click; and the computer itself, which houses the computer's components.",
+                "completion": false,
+                "bookmark": false
+              },
+              {
+                "id": 2,
+                "type": "QuestionAnswer",
+                "question": "How does Computer Work?",
+                "description": "",
+                "image": "",
+                "answer": "As we know, Computer is an electronic device. So, first of all supply of electricity is must. And, it takes input from user through input devices and most common input devices is keyword. After input is taken, it starts processing the input data in CPU using processor. Finally, Output is displayed in the monitor. Users can store the processed information the storage device of the computer.                ",
+                "completion": false,
+                "bookmark": false
+              },
+              {
+                "id": 3,
+                "type": "QuestionPointsAnswer",
+                "question": "Turn ON/OFF Computer  ",
+                "image": "link",
+                "points": [
+                    {
+                        "Turning ON Computer:" : [
+                            "Step 1: Check the computer is connected to the power supply(main plug) and main plug is ON.",
+                            "Step 2: Find the ON/OFF button on the computer system and push the button.",
+                            "Step 3: Switch ON the monitor incase it is OFF.                            ",
+                            "Step 4: Welcome screen is displayed.                            "
+                        ] 
+                    },
+                    {
+                        "Turning Off Computer:" : [
+                            "Step 1: Check the computer is connected to the power supply(main plug) and main plug is ON.",
+                            "Step 2: Find the ON/OFF button on the computer system and push the button.",
+                            "Step 3: Switch ON the monitor incase it is OFF.                            ",
+                            "Step 4: Welcome screen is displayed.                            "
+                        ] 
+                    }
+                ],
+                "completion": false,
+                "bookmark": false
+              },
+              {
+                "id": 4,
+                "type": "QuestionPointsDescriptionPoints",
+                "question": "Using Keyboard and Mouse                ",
+                "description": "",
+                "image": "",
+                "points": [
+                    {
+                        "pointTitle": "Keyboard",
+                        "pointDescription": "The keyboard is the most used input device to give input to the computer. Eack key on the keyboard is assigned a specific function. The different keys on the keyboard are described below:                        ",
+                        "subPoints": [
+                          {
+                            "subpointTitle": " ",
+                            "subpointDescription": " Alphanumeric keys: They are used for entering text or commands into the computer. E.g. A, S, D etc."
+                          },
+                          {
+                            "subpointTitle": "",
+                            "subpointDescription": "Step 2: Find the ON/OFF button on the computer system and push the button."
+                          },
+                          {
+                            "subpointTitle": "",
+                            "subpointDescription": "Step 3: Switch ON the monitor incase it is OFF."
+                          },
+                          {
+                            "subpointTitle": "",
+                            "subpointDescription": ""
+                          }
+                        ]
+                      }
+                ],
+
+                "completion": false,
+                "bookmark": false
+              },
+              {
+                "id": 5,
+                "type": "DifferenceBetween",
+                "question": "Difference Bettween a an b",
+                "description": "",
+                "image": "",
+                "colmun1" : [
+                    "A is a",
+                    "A is apple"
+                ],
+                "colmun2" : [
+                    "B is b",
+                    "B is ball"
+                ],
+                "completion": false,
+                "bookmark": false
+              }
+            ] 
         }
-      ]
-    },
-    {
-      "id": 2,
-      "title": "Computer Software",
-      "description": "Learn the basic ",
-      "resources": [
-        {
-          "id": 1,
-          "title": " computer",
-          "image": "https://media.discordapp.net/attachments/1059720863307538503/1061578242575839253/operating-system.png?width=1073&height=663",
-          "description": "A computer is an electronic devices that takes input in the form of data and information, process it, gives meaningful output and store it. Computers are everywhere at school, home, bank, supermarket etc. The parts of a computer include the monitor, which displays information; the keyboard, which is used to type; the mouse, which is used to click; and the computer itself, which houses the computer's components.",
-          "points": [
-            {
-              "pointTitle": "",
-              "pointDescription": " ",
-              "subPoints": [
-                {
-                  "subpointTitle": "",
-                  "subpointDescription": ""
-                }
-              ]
-            }
-          ],
-          "completion": false,
-          "bookmark": false
-        },
-        {
-          "id": 2,
-          "title": "Turn on/off computer",
-          "image": "assets",
-          "description": "A computer is an electronic devices that takes input in the form of data and information, process it, gives meaningful output and store it. Computers are everywhere at school, home, bank, supermarket etc. The parts of a computer include the monitor, which displays information; the keyboard, which is used to type; the mouse, which is used to click; and the computer itself, which houses the computer's components.",
-          "points": [
-            {
-              "pointTitle": "Turn on computer",
-              "pointDescription": " ",
-              "subPoints": [
-                {
-                  "subpointTitle": " ",
-                  "subpointDescription": "Step 1: Check the computer is connected to the power supply(main plug) and main plug is ON."
-                },
-                {
-                  "subpointTitle": "",
-                  "subpointDescription": "Step 2: Find the ON/OFF button on the computer system and push the button."
-                },
-                {
-                  "subpointTitle": "",
-                  "subpointDescription": "Step 3: Switch ON the monitor incase it is OFF."
-                },
-                {
-                  "subpointTitle": "",
-                  "subpointDescription": ""
-                }
-              ]
-            },
-            {
-              "pointTitle": "Turno off computer",
-              "pointDescription": " ",
-              "subPoints": [
-                {
-                  "subpointTitle": "",
-                  "subpointDescription": ""
-                }
-              ]
-            }
-          ],
-          "completion": false,
-          "bookmark": false
-        }
-      ]
-    }
-  ]
-}
+    ]
+  }
