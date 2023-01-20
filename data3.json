@@ -181,23 +181,6 @@
       ],
       "completion": false,
       "bookmark": false
-    },
-    {
-      "id": 5,
-      "type": "DifferenceBetween",
-      "question": "Difference Bettween a an b",
-      "description": "",
-      "image": "",
-      "colmun1": [
-        "A is a",
-        "A is apple"
-      ],
-      "colmun2": [
-        "B is b",
-        "B is ball"
-      ],
-      "completion": false,
-      "bookmark": false
     }
   ]
 }
