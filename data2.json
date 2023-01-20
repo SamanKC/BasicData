@@ -33,16 +33,16 @@
               "Turning ON Computer:": [
                 "Step 1: Check the computer is connected to the power supply(main plug) and main plug is ON.",
                 "Step 2: Find the ON/OFF button on the computer system and push the button.",
-                "Step 3: Switch ON the monitor incase it is OFF.                            ",
-                "Step 4: Welcome screen is displayed.                            "
+                "Step 3: Switch ON the monitor incase it is OFF.",
+                "Step 4: Welcome screen is displayed."
               ]
             },
             {
               "Turning Off Computer:": [
-                "Step 1: Check the computer is connected to the power supply(main plug) and main plug is ON.",
-                "Step 2: Find the ON/OFF button on the computer system and push the button.",
-                "Step 3: Switch ON the monitor incase it is OFF.                            ",
-                "Step 4: Welcome screen is displayed.                            "
+                "Step 1: Click on the 'Start' button",
+                "Step 2: Click on the 'Shut Down' button.",
+                "Step 3: Wait for the screen to turn black.",
+                "Step 4: Switch OFF the main plug."
               ]
             }
           ],
@@ -784,7 +784,7 @@
           "bookmark": false
         },
         {
-          "id": 4,
+          "id": 15,
           "type": "QuestionPointsDescriptionPoints",
           "question": "Generation of Computer",
           "description": "The development of computer took place in different distinct stages, which is known as generation of computer. With every new generation speed, storage, size, reliability of circuit in computer advanced. Technology used in different generation computers are:",
@@ -937,7 +937,7 @@
           "bookmark": false
         },
         {
-          "id": 4,
+          "id": 16,
           "type": "QuestionPointsDescriptionPoints",
           "question": "Type Of Computer",
           "description": "",
@@ -988,7 +988,7 @@
           "bookmark": false
         },
         {
-          "id": 4,
+          "id": 17,
           "type": "QuestionPointsDescriptionPoints",
           "question": "Components of Computer",
           "description": "",
@@ -1039,7 +1039,257 @@
           "bookmark": false
         },
         {
-          "id": 16,
+          "id": 18,
+          "type": "QuestionPointsDescriptionPoints",
+          "question": "Components of Computer",
+          "description": "The main components of computer are given below:",
+          "image": "",
+          "points": [
+            {
+              "pointTitle": "Input devices:",
+              "pointDescription": "Input is the data entered into a computer for processing. Input can be in form of text, program, commands and user response. The devices which collect input for processing is called input devices. Keyboard, scanners, digital camera, audio, video are input devices. The main functions of input devices are: accept data, convert data and sends data in binary form to the computer.",
+              "subPoints": [
+                {
+                  "subpointTitle": " ",
+                  "subpointDescription": ""
+                }
+              ]
+            },
+            {
+              "pointTitle": "Output Device:",
+              "pointDescription": "They are peripheral devices that receives or displays output from computer. Output can be in form of words, numbers, graphics, sounds, etc. The basic functions of output devices are: Accepts results, convert binary coded data and supplies converted results to the outside world. Monitor, Printer etc are the example of output devices.",
+              "subPoints": [
+                {
+                  "subpointTitle": " ",
+                  "subpointDescription": ""
+                }
+              ]
+            },
+            {
+              "pointTitle": "Memory:",
+              "pointDescription": "Memory is blank space where different types of data, programs and software are stored. The term “volatile” in the context of computer memory refers to memory that requires power to maintain the stored information; it retains its contents while powered on but when the power is interrupted, the stored data is quickly lost. There are two types of memory:",
+              "subPoints": [
+                {
+                  "subpointTitle": "a) Primary memory:",
+                  "subpointDescription": "Computer memory that is directly accessible to the CPU of computer. Primary memory is known as volatile memory. Example such as RAM, ROM though ROM is primary memory, it is a non-volatile in nature."
+                },
+                {
+                  "subpointTitle": "b) Secondary memory:",
+                  "subpointDescription": "Memory that supplements the primary memory. It is long-term and non-volatile. Examples are magnetic tape, magnetic disk, etc."
+                }
+              ]
+            },
+            {
+              "pointTitle": "Central Processing Unit:",
+              "pointDescription": "CPU is the main information processor in computer capable of executing a program. CPU serve as “brain” of computer. It processes the raw data and turns it into information. It is linked with input/output devices and auxiliary storage units.",
+              "subPoints": [
+                {
+                  "subpointTitle": " ",
+                  "subpointDescription": ""
+                }
+              ]
+            }
+          ],
+          "completion": false,
+          "bookmark": false
+        },
+        {
+          "id": 19,
+          "type": "QuestionPointsDescriptionPoints",
+          "question": "Motherboard",
+          "description": "The motherboard is the brain of the computer system. And, almost all the devices are directly or indirectly connected to this board. Without it, none of the computer pieces, such as CPU, GPU or hard drive could interact. Motherboard includes the following components:",
+          "image": "",
+          "points": [
+            {
+              "pointTitle": "CPU",
+              "pointDescription": "It performs all the calculations that takes place inside pc. CPUs generate a lot of heat and thus require a cooling fan or heat sink.",
+              "subPoints": [
+                {
+                  "subpointTitle": " ",
+                  "subpointDescription": ""
+                }
+              ]
+            },
+            {
+              "pointTitle": "Memory (RAM)",
+              "pointDescription": "RAM is a volatile memory that stores data and files being executed by the CPU.",
+              "subPoints": [
+                {
+                  "subpointTitle": " ",
+                  "subpointDescription": ""
+                }
+              ]
+            },
+            {
+              "pointTitle": "PCI Slot",
+              "pointDescription": "This is used to connect I/O devices to the motherboard.",
+              "subPoints": [
+                {
+                  "subpointTitle": "",
+                  "subpointDescription": ""
+                }
+              ]
+            },
+            {
+              "pointTitle": "ROM",
+              "pointDescription": "ROM is non volatile storage where data are stored permanently. The BIOS information is kept in ROM and it tells how to start, what to do when it starts and so on.",
+              "subPoints": [
+                {
+                  "subpointTitle": " ",
+                  "subpointDescription": ""
+                }
+              ]
+            },
+            {
+              "pointTitle": "Chipset",
+              "pointDescription": "Chipset is a group of small circuits that coordinates the flow of data and instructions between the CPU or microprocessor and external devices. There are two types of chipset:",
+              "subPoints": [
+                {
+                  "subpointTitle": "NorthBridge:",
+                  "subpointDescription": "The NorthBridge is in charge of controlling transfers between the processor and the RAM. This chip also contains a large heat sink."
+                },
+                {
+                  "subpointTitle": "SouthBridge:",
+                  "subpointDescription": "The SouthBridge handles communications between peripheral devices."
+                }
+              ]
+            }
+          ],
+          "completion": false,
+          "bookmark": false
+        },
+        {
+          "id": 20,
+          "type": "QuestionAnswer",
+          "question": "RAM",
+          "image": "",
+          "answer": "RAM stands for Random Access Memory, and it is volatile memory i.e. once the power is cut off, data in RAM is erased automatically.. It is the place in a computer where the operating system, application programs, and data in current use are kept so they can be quickly reached by the computer's processor. RAM is much faster to read from and write to than other kinds of storage, such as a hard disk drive, solid state drive, or DVD. Your computer can access RAM memory much faster than data on a hard disk, SSD or other long term storage device.",
+          "completion": false,
+          "bookmark": false
+        },
+        {
+          "id": 21,
+          "type": "QuestionPointsDescriptionPoints",
+          "question": "Ports",
+          "description": "",
+          "image": "",
+          "points": [
+            {
+              "pointTitle": "USB Port",
+              "pointDescription": "It is used for connecting ecternal devices like mouse and keyboard.",
+              "subPoints": [
+                {
+                  "subpointTitle": " ",
+                  "subpointDescription": ""
+                }
+              ]
+            },
+            {
+              "pointTitle": "Parallel Port",
+              "pointDescription": "It is used for genrally connecting printer and scanner.",
+              "subPoints": [
+                {
+                  "subpointTitle": "",
+                  "subpointDescription": ""
+                }
+              ]
+            },
+            {
+              "pointTitle": "Serial Port",
+              "pointDescription": "It is used for connecting modem and older mouse.",
+              "subPoints": [
+                {
+                  "subpointTitle": "",
+                  "subpointDescription": ""
+                }
+              ]
+            },
+            {
+              "pointTitle": "VGA Port",
+              "pointDescription": "It is used for connecting monitor to compuer's video card.",
+              "subPoints": [
+                {
+                  "subpointTitle": " ",
+                  "subpointDescription": ""
+                }
+              ]
+            },
+            {
+              "pointTitle": "Ethernet Port",
+              "pointDescription": "It is used for connecting network cable to computer.",
+              "subPoints": [
+                {
+                  "subpointTitle": "",
+                  "subpointDescription": ""
+                }
+              ]
+            }
+          ],
+          "completion": false,
+          "bookmark": false
+        },
+        {
+          "id": 22,
+          "type": "QuestionPointsDescriptionPoints",
+          "question": "Hardware and Software",
+          "description": "A computer system is divided into two categories:",
+          "image": "",
+          "points": [
+            {
+              "pointTitle": "Hardware",
+              "pointDescription": "In computer terms, Hardware is defined as or refereed to the physical and visible components of the system such as monitor, keyboard, printer and so on. They are externally connected to the computer system. If in case, they are damaged they can be replaced with the new one.",
+              "subPoints": [
+                {
+                  "subpointTitle": " ",
+                  "subpointDescription": ""
+                }
+              ]
+            },
+            {
+              "pointTitle": "Software",
+              "pointDescription": "In computer terms, Software is defined as or refereed to the set of instructions which enable the hardware to perform some task. Software are of many types and each types performs different task. System software, software which is exectued at first when we turn on the computer. It's function are; file management, memory management, handling input and ouput devices and so on. Application software is designed to assist the user with a particular process. And Utility software helps to manage, maintain and control computer resources. Softwares are affected by the malware and viruses so they must be protected. Examples of software are: OS, MS Office, device driver and so on.",
+              "subPoints": [
+                {
+                  "subpointTitle": "",
+                  "subpointDescription": ""
+                }
+              ]
+            }
+          ],
+          "completion": false,
+          "bookmark": false
+        },
+        {
+          "id": 23,
+          "type": "QuestionPointsDescriptionPoints",
+          "question": "Taking Screenshot",
+          "description": "Taking screenshot in computer is one of the most easy and common task to do. We take screenshot for many reasons. We take screenshot to save notification message, save some important information, or take a screenshot of a picture or a video. Taking a screenshot in Windows is as easy as taking a screenshot in Android smartphone or iPhone.",
+          "image": "",
+          "points": [
+            {
+              "pointTitle": "",
+              "pointDescription": "If you want to take a screenshot on your Windows computer, there are several methods you can use, they are:",
+              "subPoints": [
+                {
+                  "subpointTitle": " ",
+                  "subpointDescription": "1. You can use the Print Screen Button from the key located at right top i.e. PrtSc."
+                },
+                {
+                  "subpointTitle": "",
+                  "subpointDescription": "2. use the keyboard shortcut Windows Key + Shift + S to activate the snip and sketch tools. Your screen will go dim and a mini menu will appear at the top of your screen, giving you the option to take a rectangular, free-form, window, or full-screen capture."
+                },
+                {
+                  "subpointTitle": "",
+                  "subpointDescription": "3. You can also take the screenshot by opening Game Bar by pressing the keys Windows Key + G."
+                }
+              ]
+            }
+          ],
+          "completion": false,
+          "bookmark": false
+        },
+        {
+          "id": 24,
           "type": "QuestionAnswerPoints",
           "question": "File Management",
           "image": "",
@@ -1083,7 +1333,7 @@
           "bookmark": false
         },
         {
-          "id": 17,
+          "id": 25,
           "type": "QuestionAnswer",
           "question": "Windows Explorer",
           "image": "",
@@ -1092,7 +1342,7 @@
           "bookmark": false
         },
         {
-          "id": 18,
+          "id": 26,
           "type": "QuestionAnswerPoints",
           "question": "Disk Cleanup",
           "image": "",
@@ -1111,7 +1361,7 @@
           "bookmark": false
         },
         {
-          "id": 19,
+          "id": 27,
           "type": "QuestionPointsAnswer",
           "question": "Zip File Extraction ",
           "image": "link",
@@ -1133,7 +1383,7 @@
           "bookmark": false
         },
         {
-          "id": 20,
+          "id": 28,
           "type": "DifferenceBetween",
           "question": "Difference Bettween a an b",
           "description": "",
