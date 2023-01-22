@@ -1,0 +1,178 @@
+{
+    "id": 4,
+    "title": "Google-productivity-apps",
+    "resources": [
+        {
+            "id": 1,
+            "type": "QuestionPointsDescriptionPoints",
+            "question": "Google Apps",
+            "description": "Google apps is a suite of productivity and collaboration tools that includes Docs, Sheets, Forms and Calendar, and many other applications. These tools are designed to help individuals and organizations work together, share information more efficiently, and make projects easier to manage.",
+            "image": "",
+            "points": [
+                {
+                    "pointTitle": "Google Docs",
+                    "pointDescription": "Google Docs is a free web-based word processing and document creation tool from Google. It allows user to create, edit, and share documents with people in real-time, as well as insert and format various types of content such as images, tables, and charts. User can access Google Docs on any device, including your computer, tablet, or phone. With Google Docs, user can create a variety of documents like resume, letters, and reports. One of the main benefits of Google Docs is its ability to support real-time collaboration. User can also collaborate with others in real-time, share documents, and even chat directly in the document. Multiple users can work on the same document at the same time, and changes made by one user appear on everyone's screen. This makes it easy for team members to work together on projects and ensures that everyone has access to the most up-to-date version of the document. Google Docs also offers a range of features like formatting tools and layout options, that make creating documents easier and faster. It also includes a spell checker and grammar checker to help users create error-free documents. In addition to creating and editing documents, Google Docs allows users to save their work to the cloud and access it from any device with an internet connection. This means that users can work on their documents from any location and on any device, and their work is automatically saved and backed up. Overall, Google Docs is a powerful and easy-to-use tool that is designed to help individuals and teams create, edit, and collaborate on documents more efficiently.",
+                    "subPoints": [
+                        {
+                            "subpointTitle": "",
+                            "subpointDescription": ""
+                        }
+                    ]
+                },
+                {
+                    "pointTitle": "Google Sheets",
+                    "pointDescription": "Google sheet is a free online/ web based spreadsheet tool from Google. It is similar to Microsoft Excel but with some extra features. It allows user to create, edit spreadsheets, as well as use it to analyze data and create charts and graphs. With the Google Sheets, user can collaborate in real time with other users and store their data in cloud. Google Sheets also allows users to share documents with anyone who has a Google account, making it a great tool for collaboration. Google sheet supports real time collaboration which allows multiple users to work on the same spreadsheet at the same time. This ensures that every user has access to an up-to-date spreadsheet. Google Sheets also offers wide range of features like formatting, inserting as well as it aslo includes a range of built-in formulas and functions that can be used to perform calculations and analyze data. Users can easily create formulas to calculate data, and then use the data to create charts and graphs. In addition to creating and editing spreadsheets, Google Sheets allows users to save their work to the cloud and access it from any device with an internet connection. This means that users can work on their spreadsheets from any location and on any device, and their work is automatically saved and backed up. Overall, Google Sheets is a powerful and easy-to-use tool for creating and collaborating to make spreadsheet more efficiently. It is a great tool for data analysis.",
+                    "subPoints": [
+                        {
+                            "subpointTitle": "",
+                            "subpointDescription": ""
+                        }
+                    ]
+                },
+                {
+                    "pointTitle": "Google Calendar",
+                    "pointDescription": "Google Calendar is a free time management tool or online calendar provided by Google, that allows you to schedule events, appointments, and meetings, and set reminders. Users can also sync their Google Calendar with other services, such as Outlook, Apple Calendar, and other calendar applications. Google Calendar makes it easy to keep track of events. Users can easily add, edit, and delete events from their calendar. They can also invite other people to events and set reminders to be notified when they're near an event. To use Google calendar, user will need Google Acccount. If user already have a Gmail account, user can use the same login information for Google Calendar. If you don't have a Google Account, user can create one for free. User can then create new events by clicking on a date and time and entering details, such as the event title, location and duration. Additionally, users can create multiple calendars and color-code them to keep track of different types of events. Google Calendar also has a number of useful features, such as the ability to view schedule by day, week or month, as well as allows users to set up recurring events, such as weekly meetings or monthly birthdays. Overall, Google Calendar is a convenient and easy-to-use tool that can help you stay organized and manage your time effectively.",
+                    "subPoints": [
+                        {
+                            "subpointTitle": "",
+                            "subpointDescription": ""
+                        }
+                    ]
+                },
+                {
+                    "pointTitle": "Google Slide",
+                    "pointDescription": "Google Slide is a free web based presentation program that is part of the Google Suite of online tools. It allows user to create and edit presentations online, and share them with other users. Google Slides also includes tools for collaboration, such as the ability to comment on slides, share and collaborate with others, and see who's viewing each slide. And, of course, all of the presentations are stored securely in the cloud, allowing user to access them from anywhere. To use Google Slides, open the app then and user can then create new presentation by selecting theme or layout, or user can import an existing powerpoint file. In Google Slides, user can add text, images, shapes, and other media to the slides, as well as format and customize the appearance of the presentation. Google slide include number of useful features, such as the ability to insert and edit charts and tables, and the option to add animations and transitions to the slides. Overall, Google Slides is a powerful and user-friendly presentation tool that can help you create professional-looking presentations quickly and easily.",
+                    "subPoints": [
+                        {
+                            "subpointTitle": "",
+                            "subpointDescription": ""
+                        }
+                    ]
+                },
+                {
+                    "pointTitle": "Google Chat",
+                    "pointDescription": "Google Chat is a messaging platform that is created by Google. It is designed to help people communicate with each other in real-time. It allows user to communicate with coworkers, clients, and other stakeholders in real-time using text, voice, video and also allows user to create and join group chats. To use Google Chat, user need to open the app then user can create or join a chat room, or start direct message with an individual or group of people. Users can also share files, images, and links with each other. With Google Chat, users can stay connected and share ideas wherever they are. Google Chat provides number of useful features, such as the ability to share files, schedule meetings, and set up integrations with other tools and services. You can also customize your chat settings, such as notification preferences and whether or not to display a read receipt. Overall, Google Chat is a convenient and efficient way to communicate with others in real-time, whether you're working remotely or in the office. It can help you stay connected and productive with your team.",
+                    "subPoints": [
+                        {
+                            "subpointTitle": "",
+                            "subpointDescription": ""
+                        }
+                    ]
+                },
+                {
+                    "pointTitle": "Google Fonts",
+                    "pointDescription": "Google Fonts is a library of over 1,000 free, open source fonts from Google. It is a web-based service that allows users to browse and preview the available fonts, and then easily incorporate them into their web projects. Google Fonts makes it easy to find and use the right font for any project. One of the main benefits of Google Fonts is that it offers wide range of font styles and types. All of the fonts are free to use, and they are optimized for the web. User can filter the font library by type, language, and even popularity. Google Fonts also has a great feature that lets user quickly and easily adjust the size, color, and spacing of fonts. In addition to offering a wide range of fonts, Google Fonts is designed to be easy to use. Users can simply browse the available fonts, preview them, and then click on the 'Add to Collection' button to add them to their personal collection. From there, user can easily generate the necessary code to incorporate the fonts into their projects. Google Fonts is a great resource for web designers, developers, and anyone else who needs fonts for their projects. With its expansive library of fonts and powerful tools, it makes it easy to find the perfect font for any project. Overall, Google Fonts is a useful resource for designers and developers looking to add custom fonts to their web projects.",
+                    "subPoints": [
+                        {
+                            "subpointTitle": "",
+                            "subpointDescription": ""
+                        }
+                    ]
+                },
+                {
+                    "pointTitle": "Google Maps",
+                    "pointDescription": "Google Map is a web mapping service developed by Google that provides user with detailed maps and satellite imagery of locations around the world. It provides the user with the ability to search for locations, get directions, view satellite imagery, and view street maps. It is available for desktop computers, mobile devices, and tablets. It is also integrated with other Google services, such as Google Earth, Google Street View, and Google Maps Street View. Google Maps offers the benefits such as accuracy and comprehensiveness. Google Maps allows users to search for businesses, restaurants, and other points of interest. It can also provide directions for driving, walking, biking, and public transportation, and can be used to find nearby points of interest, such as gas stations, restaurants, and ATMs. It also includes reviews and ratings from other users, which can be helpful for finding the best places to eat, stay, and visit. In addition of its mapping and directions features, Google Maps also includes a range of other tools and services, such as Street View, which allows users to see 360-degree panoramic views of many streets around the world, and My Maps, which allows users to create and customize their own maps.",
+                    "subPoints": [
+                        {
+                            "subpointTitle": "",
+                            "subpointDescription": ""
+                        }
+                    ]
+                },
+                {
+                    "pointTitle": "Google Flights",
+                    "pointDescription": "Google Flights is an online flight booking service that allows users to search for and compare flights from various airlines. It searches the best prices from hundreds of airlines and other travel sites, so user don’t have to. User can compare flights and prices easily and quickly, and book the best deal. To use Google Flights, users simply enter their travel dates and destination, and the service will display a list of available flights and price. Users can then filter the results by criteria such as flight duration, departure and arrival times, and the number of stops. They can also view a calendar view of prices, which can be helpful for finding the lowest fares on different dates. Users can then filter the results by criteria such as flight duration, departure and arrival times, and the number of stops. They can also view a calendar view of prices, which can be helpful for finding the lowest fares on different dates. Google Flights also includes a range of other features and tools, such as alerts for price changes and notifications when it finds a better deal on a route. It also includes a map view, which allows users to see the prices for flights to various destinations from their origin city. Finally, Google Flights makes it easy to book your flight.",
+                    "subPoints": [
+                        {
+                            "subpointTitle": "",
+                            "subpointDescription": ""
+                        }
+                    ]
+                },
+                {
+                    "pointTitle": "Google Translate",
+                    "pointDescription": "Google Translate is a free online/ web based language translation service that allows user to translate text and web pages from one language to another. It supports over 200 languages and can translate text, audio, and images. It can also be used as a dictionary and a phrasebook. Google Translate is a great tool for learning languages, traveling, and communication. User simply enter the text or web page they want to translate and select the source language and the target language. Google Translate supports a wide range of language. It also includes a range of features and tools, such as the ability to translate conversations in real-time and the ability to download language packs for offline use. It can help you communicate with people who speak different languages and understand documents in foreign languages. Google Translate is also integrated with other Google products such as Gmail, Google Docs, and Google Search. It uses advanced machine learning algorithms to provide high-quality translations, and is constantly being updated with new languages and features. It is also designed to be easy to use, with a simple interface and a range of options for inputting and displaying text. So, Google Translate is design in a way that it helps individuals and businesses looking to communicate with people who speak different languages for different purposes.",
+                    "subPoints": [
+                        {
+                            "subpointTitle": "",
+                            "subpointDescription": ""
+                        }
+                    ]
+                },
+                {
+                    "pointTitle": "Google Express and Shopping",
+                    "pointDescription": "Google Express is an online shopping service provided by Google that allows user to purchase products from a wide range of retailers, including stores like Walmart, Target, Costco, and many others. It is designed to make it easy for users to shop online and have their orders delivered to their homes or businesses. Google Express also offers memberships, which give users access to exclusive offers, discounts, and free shipping. Shopping in Google Express is simple and easy. Customers/ Users can simply search for items using search bar or broswe categories and add them to their shopping cart.Users can then filter the results by criteria such as price, brand, and seller rating, and can compare different products side-by-side to find the best deal. Google Express offers a range of delivery options, including same-day delivery and next-day delivery, depending on the location and availability of the products. Google Express also offers a variety of payment options, including credit cards, PayPal, and Google Pay. All orders placed through Google Express are protected by Google's secure checkout system. In addition to shopping, users can also find helpful tips and advice on how to save money and get the best deals on Google Express. The service also offers discounts and promo codes for select stores and items. Customers can also join the Google Express mailing list to stay up-to-date on the latest deals and offers. Overall, Google Express is designed to make it easy for users to shop online and have their orders delivered to their homes or businesses.",
+                    "subPoints": [
+                        {
+                            "subpointTitle": "",
+                            "subpointDescription": ""
+                        }
+                    ]
+                },
+                {
+                    "pointTitle": "Google News",
+                    "pointDescription": "Google News is free, web-based news aggregator and news service that collects articles and videos from a wide range of news sources and presents them in a customizable format. It is designed to help users stay informed about the latest news and events from around the world. It also offers personalized news sections based on users' interests and location. Users simply visit the website and browse the avaailable articles and videos. Users can customize their news feed to include only the topics and sources that are important to them. They can also set up notifications for breaking news stories and add topics of their choice. Google News also offers an easy-to-navigate search tool that allows users to find the latest news stories from around the world. Google News also include range of features and tools, such as the ability to save articles and videos for later, the ability to share articles on social media, and the ability to receive news alerts on specific topics. It also offers a simple and easy-to-use interface that allows users to quickly access news stories.",
+                    "subPoints": [
+                        {
+                            "subpointTitle": "",
+                            "subpointDescription": ""
+                        }
+                    ]
+                },
+                {
+                    "pointTitle": "More From Google",
+                    "pointDescription": "Google provides wide range of services. Some of the services provided by Google that are helpful to the user are explained above. Those services has helped users in the related or specific task. Google services are alot than above mention. So, more services that Google provides to the users are explained below shortly:",
+                    "subPoints": [
+                        {
+                            "subpointTitle": "- Google Keep:",
+                            "subpointDescription": "A note-taking and task management app that allows users to create and organize notes, lists."
+                        },
+                        {
+                            "subpointTitle": "- Google Classrooms:",
+                            "subpointDescription": "A learning management platform that allows teachers to create and manage online classes, assign assignments, and communicate with students."
+                        },
+                        {
+                            "subpointTitle": "- Google Meet:",
+                            "subpointDescription": "A video conferencing app that allows users to hold meetings and collaborate with others in real-time."
+                        },
+                        {
+                            "subpointTitle": "- Google Drive:",
+                            "subpointDescription": "A cloud-based storage and collaboration platform that allows users to store, access, and share files from any device with an internet connection."
+                        },
+                        {
+                            "subpointTitle": "- Google Earth:",
+                            "subpointDescription": "A virtual globe, map, and geographic information program that allows users to explore the earth, moon, mars, and other celestial bodies in 3D."
+                        },
+                        {
+                            "subpointTitle": "- Google Fit:",
+                            "subpointDescription": "A fitness tracking app that helps users monitor their physical activity, sleep, and nutrition, and provides personalized recommendations for improving their health and wellbeing."
+                        },
+                        {
+                            "subpointTitle": "- Google Scholar:",
+                            "subpointDescription": "A search engine that allows users to search for and access scholarly literature, including articles, theses, books, and conference proceedings."
+                        }
+                    ]
+                }
+            ],
+            "completion": false,
+            "bookmark": false
+        },
+        {
+            "id": 2,
+            "type": "DifferenceBetween",
+            "question": "Difference Bettween a an b",
+            "description": "",
+            "image": "",
+            "colmun1": [
+                "A is a",
+                "A is apple"
+            ],
+            "colmun2": [
+                "B is b",
+                "B is ball"
+            ],
+            "completion": false,
+            "bookmark": false
+        }
+    ]
+}
