@@ -1,0 +1,286 @@
+{
+    "id": 2,
+    "title": "Email and Internet",
+    "resources": [
+        {
+            "id": 1,
+            "type": "QuestionPointsDescriptionPoints",
+            "question": "Internet",
+            "description": "Internet stands for International Network. It is the world wide network that connects with more than a million of computer. It is a decentralized system that allows users to access and share information, communicate with each other, and perform a wide variety of tasks. The Internet is a widely used research tool, providing society with access to global information and instant communications. Once you are connected to the internet, you can use it to access a wide range of information and services, such as websites, online shopping, social media, and email. The internet has become an essential part of modern life, with billions of people around the world using it every day to communicate, access information, and connect with others. Overall, the internet is a powerful tool that has changed the way people live and work, and it continues to evolve and change as new technologies and innovations are developed.",
+            "image": "",
+            "points": [
+                {
+                    "pointTitle": "Web Terminology",
+                    "pointDescription": "",
+                    "subPoints": [
+                        {
+                            "subpointTitle": "- Web Page:",
+                            "subpointDescription": "Web page is a pages that contain information on any topic or subject. The contents of web page can be accessed through a web browser and displayed on a client computer. A web page may have many hyperlinks."
+                        },
+                        {
+                            "subpointTitle": "- Website:",
+                            "subpointDescription": "A collection of related web pages stored on a web server is known as web site. A web site has unique internet address or uniform resource locator(URL)."
+                        },
+                        {
+                            "subpointTitle": "- Web Server:",
+                            "subpointDescription": "A computer on the world wide web that stores web sites is known as web server. When a user computer enter a website URL into a web browser, the web server searches the information within its file system and sends the requested web pages of web site to user computer and the web browser displays the formatted document on the monitor."
+                        },
+                        {
+                            "subpointTitle": "- Web Address:",
+                            "subpointDescription": "A web page has a unique address, which is called a URL or web address. A web address consists of a protocol, domain name, and sometimes the path to a specific Web page or location on a Web page. The http, which stands for Hypertext Transfer Protocol, is a set of rules that defines how pages transfer on the INternet."
+                        },
+                        {
+                            "subpointTitle": "- World Wide Web (WWWW):",
+                            "subpointDescription": "WWWW is the one of the popular services of the internet. It is also called web. Millions of web servers are interconnected with each other in the web which provides information on various topics or subjects."
+                        },
+                        {
+                            "subpointTitle": "-Internet Service Provider(ISP):",
+                            "subpointDescription": "An Internet Service Provider (ISP) is a company that provides internet access to customers. It is responsible for providing a connection to the internet, either through a wired or wireless connection, and for providing the necessary equipment and technical support to help users access the internet."
+                        }
+                    ]
+                }
+            ],
+            "completion": false,
+            "bookmark": false
+        },
+        {
+            "id": 2,
+            "type": "QuestionAnswer",
+            "question": "Browser",
+            "image": "",
+            "answer": "A web browser is a software application that allows user to access, retrieve, and view web pages and other content on the Internet. When you enter a website's address into a web browser, the browser sends a request to the web server to retrieve the content and then displays it on your device. Web browsers are available for many different devices, including desktop computers, laptops, tablets, and smartphones. Some examples of popular web browsers include Google Chrome, Mozilla Firefox, Microsoft Edge, and Apple Safari. Some browsers may also have additional features, such as tools to manage your passwords or block pop-up ads.",
+            "completion": false,
+            "bookmark": false
+        },
+        {
+            "id": 3,
+            "type": "QuestionPointsDescriptionPoints",
+            "question": "Some Popular Websites",
+            "description": "There are many popular websites on the internet that are visited by millions of people every day. Here are a few examples:",
+            "image": "",
+            "points": [
+                {
+                    "pointTitle": "- Google:",
+                    "pointDescription": "There are many ways to install a software in computer. The ways to install software are given below:",
+                    "subPoints": [
+                        {
+                            "subpointTitle": "",
+                            "subpointDescription": ""
+                        }
+                    ]
+                },
+                {
+                    "pointTitle": "- Facebook:",
+                    "pointDescription": "Facebook is a social networking website that allows users to connect with friends and family, share photos and updates, and participate in groups and events.",
+                    "subPoints": [
+                        {
+                            "subpointTitle": "",
+                            "subpointDescription": ""
+                        }
+                    ]
+                },
+                {
+                    "pointTitle": "- YouTube:",
+                    "pointDescription": "YouTube is a video-sharing platform that allows users to upload, share, and watch videos. It is the largest video-sharing website in the world and is home to a wide variety of content, including music videos, movies, TV shows, and educational videos.",
+                    "subPoints": [
+                        {
+                            "subpointTitle": "",
+                            "subpointDescription": ""
+                        }
+                    ]
+                },
+                {
+                    "pointTitle": "- Amazon:",
+                    "pointDescription": "Amazon is an online retailer that sells a wide range of products, including books, electronics, clothing, and household items. It is the largest online retailer in the world and is known for its fast and reliable shipping.",
+                    "subPoints": [
+                        {
+                            "subpointTitle": "",
+                            "subpointDescription": ""
+                        }
+                    ]
+                },
+                {
+                    "pointTitle": "- Wikipedia:",
+                    "pointDescription": "Wikipedia is a free online encyclopedia that is written and edited by volunteers. It contains articles on a wide range of topics and is a popular source of information for students and researchers.",
+                    "subPoints": [
+                        {
+                            "subpointTitle": "",
+                            "subpointDescription": ""
+                        }
+                    ]
+                }
+            ],
+            "completion": false,
+            "bookmark": false
+        },
+        {
+            "id": 4,
+            "type": "QuestionAnswer",
+            "question": "Two Step Authnentication",
+            "image": "",
+            "answer": "Two-step authentication (also known as two-factor authentication or 2FA) is an additional layer of security that helps protect your accounts from unauthorized access. It requires you to provide two different authentication factors when logging in to your account. The first factor is typically something you know, such as a password. The second factor is typically something you have, such as a mobile phone or a security token. Two-step authentication helps prevent unauthorized access to your accounts by requiring an attacker to have both your password and access to your phone or security token in order to log in. This makes it much more difficult for them to gain access to your account, even if they manage to obtain your password through malicious means such as phishing or a data breach. For Example, If you set up 2FA for your Facebook account, you would enter your password as first authentication factor and then a code that you receive via text message or SMS on your smartphone as your second authentication factor. After you enter this code your login process will be complete.",
+            "completion": false,
+            "bookmark": false
+        },
+        {
+            "id": 5,
+            "type": "QuestionAnswer",
+            "question": "Private Browsing",
+            "image": "",
+            "answer": "Private browsing, also known as incognito mode, is a feature of web browsers that allows you to surf the web without leaving a record of your activity on your device. When you use private browsing, your browser does not save your browsing history, search history, or cookies. This means that other people who use the same device will not be able to see your activity or search history, and websites will not be able to use cookies to track your activity. Private browsing can be useful if you want to protect your privacy while using a shared or public device, or if you want to search the web without leaving a trace of your activity. Private browsing can be useful if you want to protect your privacy while using a shared or public device, or if you want to search the web without leaving a trace of your activity. Additionally, any downloaded files or bookmarks you create while using private browsing will still be saved on your device. To use private browsing, you can open new private browsing window in your broswer by selecting the option 'Incognito Mode' from the menu. When you're finished using private browsing, you can simply close the window to end the private browsing session.",
+            "completion": false,
+            "bookmark": false
+        },
+        {
+            "id": 6,
+            "type": "QuestionAnswer",
+            "question": "Password Manager",
+            "image": "",
+            "answer": "Password Manager is a tool that helps you to store and manage your password online in a secure way. Instead of having to remember many different passwords for all of your online accounts, you can use a password manager to generate and store strong, unique passwords for each account. You can then access all of your passwords using a single master password or a secure authentication method such as biometric authentication. It helps you to improve your online security by making it easier to use strong, unique password for each of your accounts. This reduces the risk of password reuse, which could have made it easier for hackers to gain access to your accounts if one of your passwords is compromised. Password managers can also help you keep track of your passwords and log in to your accounts more quickly and easily. Some password managers also have additional features, such as the ability to store and manage other types of sensitive information, such as credit card numbers and security questions, and to automatically fill in login forms on websites. So, it's important to choose reputable password manager and to use a strong, unique master password to protect your accounts and sensitive information. You should also make sure to keep your password manager up to date and to use two-factor authentication if it is available.",
+            "completion": false,
+            "bookmark": false
+        },
+        {
+            "id": 7,
+            "type": "QuestionAnswer",
+            "question": "Encryption",
+            "image": "",
+            "answer": "Encryption is a process of protecting information or message or data by covering into a code in such a way that it can only be access by the authorized parties or with the right decryption key. It is used to secure communication, data storage, and other types of sensitive information. The key is a secret code that is used to encrypt and decrypt the message. Without the key, it is very difficult, if not impossible, to decrypt the message and read its contents. There are many different types of encryption algorithms and keys, each with its own strengths and weaknesses. The security of an encrypted message depends on the strength of the algorithm and the length and complexity of the key. In general, the longer and more complex the key, the more secure the encryption will be. Encryption is used to protect information from being accessed by unauthorized parties. For example, when you send an email, the message is encrypted while it is being transmitted over the internet to prevent anyone from intercepting and reading it. Encryption is also used to secure data stored on computers and other devices, such as smartphones and tablets. It helps to protect sensitive information from unauthorized parties and can prevent data from cyber attacks.",
+            "completion": false,
+            "bookmark": false
+        },
+        {
+            "id": 8,
+            "type": "QuestionAnswer",
+            "question": "Dinosaur Game [Dino T-Rex]",
+            "image": "",
+            "answer": "Dion T-Rex is a simple, browser based game that can be played when you are offline. In the game, you control a small dinosaur running through a desert landscape. The objective is to navigate the dinosaur through the obstacles and avoid crashing into them. The game can be played using the arrow keys on the keyboard to move the dinosaur left and right. The gameplay is endless, meaning that the game continues until the player crashes into an obstacle. The speed of the game increases as the player progresses, making it more challenging to avoid obstacles.",
+            "completion": false,
+            "bookmark": false
+        },
+        {
+            "id": 9,
+            "type": "QuestionPointsDescriptionPoints",
+            "question": "Chrome Extension",
+            "description": "A Chrome Extension is a small software program or application that can be installed in Google Chrome web browser to add features or extra functionality to the browser. Extensions can perform a wide range of tasks, such as blocking ads, adding new features to web pages, and modifying the appearance of the browser itself. To install an extension, visit to the Chrome Web store and browse for extension by category or for specific extension by name. The extension will be added to the browser after clicking on the 'Add to Chrome' button and can be accessed from the Chrome toolbar. Extensions are a convenient way to customize the Chrome browser and add new functionality without the need to install separate software programs.",
+            "image": "",
+            "points": [
+                {
+                    "pointTitle": "",
+                    "pointDescription": "Some of the Chrome Etxension are:",
+                    "subPoints": [
+                        {
+                            "subpointTitle": "- AdBlock:",
+                            "subpointDescription": "This extension blocks ads from appearing on web pages, helping to reduce clutter and improve the browsing experience."
+                        },
+                        {
+                            "subpointTitle": "- Grammarly:",
+                            "subpointDescription": "This extension checks the grammar and spelling of text as it is typed in web forms, helping to ensure that written communication is clear and accurate."
+                        },
+                        {
+                            "subpointTitle": "- Dark Reader:",
+                            "subpointDescription": "This extension inverts the colors of web pages, making them easier to read in low-light conditions or at night."
+                        },
+                        {
+                            "subpointTitle": "- LastPass:",
+                            "subpointDescription": "This extension is a password manager that helps users store and manage their passwords securely. It can generate strong passwords and automatically fill in login forms with the correct credentials."
+                        },
+                        {
+                            "subpointTitle": "- Pocket:",
+                            "subpointDescription": "This extension allows users to save articles, videos, and other web content for later viewing. Saved items can be accessed from any device with the Pocket app installed."
+                        }
+                    ]
+                }
+            ],
+            "completion": false,
+            "bookmark": false
+        },
+        {
+            "id": 10,
+            "type": "QuestionAnswer",
+            "question": "Email",
+            "image": "",
+            "answer": "Email(short for 'electronic mail') is a way of sending and receiving messages and files via a computer network or internet. Today, email is a primary communications method for both personal and business use. Emails are composed of two main parts: the subject and the body. The subject is a short summary of the email's content, and the body is the main text of the message. Emails can also include attachments, which are files (such as documents, images, or videos) that are sent along with the message. To send an email, you simply compose a message, enter the recipient's email address, and click 'send.' The email will be sent to the recipient's email account, where they can read it and respond if they choose. Email allows for quick and easy communication with people all over the world.",
+            "completion": false,
+            "bookmark": false
+        },
+        {
+            "id": 11,
+            "type": "QuestionAnswerPoints",
+            "question": "Using Email",
+            "image": "",
+            "answer": "To use email, you need an email account. Then after you can use it for communication whether for personal or business purposes.",
+            "points": [
+                {
+                    "Create Email Account: To create email account, follow the given steps:": [
+                        "Step 1: Open up your broswer and go to the Google home page/website.",
+                        "Step 2: Click on Gmail at the top right corner of the page the you'll now be in the 'Sign up' or 'create an account.",
+                        "Step 3: Click Create an account.",
+                        "Step 4: The signup form will appear. This will typically involve entering your personal information (such as your name, address, and phone number), choosing a username (which will be your email address), and creating a password.",
+                        "Step 5: Verify your email account by reviewing Googles's Terms of Service and Privacy Policy.",
+                        "Step 5: Your account will be created."
+                    ]
+                },
+                {
+                    "Attachment in Email: An attachment in an email is a file or files that are included with the email message. To attach file in email, follow the steps:": [
+                        "Step 1: Click on the 'Attach' button. This will open a file browser window.",
+                        "Step 2: Navigate to the location of the file you want to attach and select it. You can also select multiple files by holding down the 'Ctrl' key on your keyboard and clicking on each file.",
+                        "Step 3: Click on the 'Open' button to attach the file or files to the email message. The attachment will appear as a link or icon within the body of the email message."
+                    ]
+                },
+                {
+                    "Reading Email": [
+                        "Step 1: Open gmail.",
+                        "Step 2: Click on Inbox folder.",
+                        "Step 3: Click on message list."
+                    ]
+                },
+                {
+                    "Sending Email": [
+                        "Step 1: Open gmail.",
+                        "Step 2: Click on Compose button.",
+                        "Step 3: Fill the information in 'To', 'Subjects', and the main body.",
+                        "Step 4: To attach file or files, follow the steps given in 'Attahcment in Email'."
+                    ]
+                },
+                {
+                    "Reply Mail: To reply mail, follow the steps given below:": [
+                        "Step 1: Open gmail.",
+                        "Step 2: Open the mail that you want to reply.",
+                        "Step 3: Click on Reply button.",
+                        "Step 4: Now, type your message on the reply box.",
+                        "Step 5: Then click on send button."
+                    ]
+                }
+            ],
+            "completion": false,
+            "bookmark": false
+        },
+        {
+            "id": 12,
+            "type": "QuestionAnswer",
+            "question": "CC and BCC",
+            "image": "",
+            "answer": "CC or carbon copy is a term that is used in email to refer to additional recipients who should receive a copy of the email message. When you include someone's email address in the CC field of an email message, they will receive a copy of the message, but they are not the primary recipient. The primary recipient is the person whose email address is listed in the 'To' field of the email message. It's important to note that the use of the CC field is not required in every email message. It is up to the sender to decide whether or not to use the CC field, and if so, which email addresses to include. BCC or Blind carbon copy is a term that is used in email to refer to additional recipients who should receive a copy of the email message, but whose email addresses are not visible to the other recipients of the message. When you include someone's email address in the BCC field of an email message, they will receive a copy of the message, but their email address will not be visible to the other recipients of the message. This can be useful in situations where you want to keep the recipients of the email confidential, or where you want to avoid cluttering the email with a long list of recipients.",
+            "completion": false,
+            "bookmark": false
+        },
+        {
+            "id": 13,
+            "type": "DifferenceBetween",
+            "question": "Difference Bettween a an b",
+            "description": "",
+            "image": "",
+            "colmun1": [
+                "A is a",
+                "A is apple"
+            ],
+            "colmun2": [
+                "B is b",
+                "B is ball"
+            ],
+            "completion": false,
+            "bookmark": false
+        }
+    ]
+}
