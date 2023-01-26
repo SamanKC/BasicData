@@ -1,0 +1,318 @@
+{
+    "id": 5,
+    "title": "Microsoft PowerPoint",
+    "resources": [
+      {
+        "id": 1,
+        "type": "QuestionPointsDescriptionPoints",
+        "question": "MS PowerPoint",
+        "description": "Microsoft Powerpoint is a presentation software program used to create slideshows and multimedia presenations. It includes features such as text, images, transitions, animations, audio and video clips, and more. PowerPoint also provides tools users can use to create a wide array of slideshows, from basic, linear presentations to more complex, interactive ones. It is often used in business and educational settings to create presentations for meetings, lectures, and other events.",
+        "image": "",
+        "points": [
+          {
+            "pointTitle": "Parts of Powerpoint Window",
+            "pointDescription": "The main parts of Powerpoint window are:",
+            "subPoints": [
+              {
+                "subpointTitle": "Title bar:",
+                "subpointDescription": "This is the topmost part of the window, which displays the name of the presentation and the name of the program."
+              },
+              {
+                "subpointTitle": "Ribbon:",
+                "subpointDescription": "This is the top menu bar that displays a series of tabs, each containing a set of related commands. The tabs are: File, Home, Insert, Design, Animations, Slide Show, Review, and View."
+              },
+              {
+                "subpointTitle": "Slide pane:",
+                "subpointDescription": "This is the main area of the window, where you can view and edit the individual slides of your presentation."
+              },
+              {
+                "subpointTitle": "Outline pane:",
+                "subpointDescription": "This is the area on the left side of the window, where you can view the outline of your presentation and reorganize the slides by dragging and dropping them."
+              },
+              {
+                "subpointTitle": "Notes pane:",
+                "subpointDescription": "This is the area at the bottom of the window, where you can add notes to each slide. These notes are not visible during the presentation, but they can be useful for keeping track of what you want to say or do during the presentation."
+              },
+              {
+                "subpointTitle": "Task pane:",
+                "subpointDescription": "This is a small window that appears on the right side of the window, and it displays various options and tools depending on the task you are performing."
+              },
+              {
+                "subpointTitle": "Status bar:",
+                "subpointDescription": "This is the bottommost part of the window, which displays various information about the presentation, such as the slide number, the zoom level, and the status of the spelling and grammar checker."
+              }
+            ]
+          }
+        ],
+        "completion": false,
+        "bookmark": false
+      },
+      {
+        "id": 2,
+        "type": "QuestionAnswerPoints",
+        "question": "Creating Presentation",
+        "image": "",
+        "answer": "",
+        "points": [
+          {
+            "Open PowerPoint- To open Powerpoint, folllow the given steps:": [
+              "Step 1: Go to Start menu.",
+              "Step 2: Type 'PowerPoint' in the search bar.",
+              "Step 3: Click on PowerPoint to open it."
+            ]
+          },
+          {
+            "Create New Presentation- To create new presentation, follow the given steps:": [
+              "Step 1: Go to the 'File' tab and click on 'New.'",
+              "Step 2: Choose 'Blank Document' and press 'Create'."
+            ]
+          },
+          {
+            "Add New Slides- To add new slides, follow the steps given below:": [
+              "Step 1: Go to 'Home' tab.",
+              "Step 2: In the 'Slides' group, click on the 'New Slide' button. This will add a new blank slide to your presentation, after the currently selected slide.",
+              "Step 3: Alternatively, you can right-click on the slide thumbnail of the slide that you want to insert the new slide after, and select 'New Slide' from the context menu.",
+              "Step 4: Once the new slide is added, you can start adding content to it by using the various tools and options on the ribbon."
+            ]
+          }
+        ],
+        "completion": false,
+        "bookmark": false
+      },
+      {
+        "id": 3,
+        "type": "QuestionAnswerPoints",
+        "question": "Animation",
+        "image": "",
+        "answer": "PowerPoint provides animation tools to help you liven up your presentations. You can add animations to text, shapes, images, videos, and charts, and create custom animations with the Animation Painter. You can also control the timing and effects of the animations to make them more appealing.",
+        "points": [
+          {
+            "To apply animation in slide, follow the steps given:": [
+              "Step 1: Go to the 'Animations' tab on the ribbon.",
+              "Step 2: In the 'Animations' group, click on the 'Add Animation' button.",
+              "Step 3: In the 'Add Animation' window, select the animation that you want to apply to the element from the list of available animations.",
+              "Step 4: You can preview the animation by clicking on the 'Play' button."
+            ]
+          },
+          {
+            "To add sound to a Transition, follow the steps given below:": [
+              "Step 1: On the 'Transitions' tab in the 'Transitions' group, click the 'Sound' button.",
+              "Step 2: In the 'Sound' drop-down menu, select the sound that you want to use. You can choose from a range of built-in sounds or browse to a sound file on your computer.",
+              "Step 3: If you want to customize the sound further, click the 'Sound Options' button. In the 'Sound Options' dialog box, you can set the volume of the sound and choose when it should start and stop.",
+              "Step 4: Click 'OK' to apply the changes and close the dialog box.",
+              "Step 5: To preview the transition with the sound, click the 'Play' button on the 'Transitions' tab."
+            ]
+          },
+          {
+            "To set Transition effect speed, follow the steps given below:": [
+              "Step 1: Click on the 'Transitions' tab in the ribbon at the top of the window.",
+              "Step 2: In the 'Transitions to This Slide' group, click on the drop-down arrow next to the 'Duration' field.",
+              "Step 3: A list of available transition durations will appear. Select the duration you want to use for the transition effect.",
+              "Step 4: To apply the settings to all slides, click the Apply To All button."
+            ]
+          }
+        ],
+        "completion": false,
+        "bookmark": false
+      },
+      {
+        "id": 4,
+        "type": "QuestionAnswerPoints",
+        "question": "Add Audio",
+        "image": "",
+        "answer": "To add audio, there are two ways:",
+        "points": [
+          {
+            "1. Add audio from your PC": [
+              "Step 1: Select Insert.",
+              "Step 2: Click Audio in the Mdedia section.",
+              "Step 3: In the Insert Audio dialog box, select the audio file you want to add.",
+              "Step 4: Select Insert."
+            ]
+          },
+          {
+            "2. Record Audio": [
+              "Step 1: Select Insert.",
+              "Step 2: Click Audio in the Mdedia section.",
+              "Step 3: Type in a name for your audio file, select Record, and then speak.",
+              "Step 4: To review your recording, select Stop and then select Play.",
+              "Step 5: Select Record to re-record your clip, or select OK if you're satisfied.",
+              "Step 6: To move your clip, select and drag the audio icon to where you want it on the slide."
+            ]
+          }
+        ],
+        "completion": false,
+        "bookmark": false
+      },
+      {
+        "id": 5,
+        "type": "QuestionPointsAnswer",
+        "question": "Insert Hyperlink",
+        "image": "link",
+        "points": [
+          {
+            "To Insert a hyperlink to a web page, follow the steps:": [
+              "Step 1: Select the text or object that you want to use as the hyperlink. This could be a word, phrase, or image.",
+              "Step 2: Right-click the selected text or object and select 'Hyperlink' from the context menu.",
+              "Step 3: In the 'Insert Hyperlink' dialog box, type or paste the URL of the web page you want to link to in the 'Address' field.",
+              "Step 4: Click Ok to insert the hyperlink."
+            ]
+          }
+        ],
+        "completion": false,
+        "bookmark": false
+      },
+      {
+        "id": 6,
+        "type": "QuestionPointsAnswer",
+        "question": "Slide Show",
+        "image": "link",
+        "points": [
+          {
+            "To create slide show, follow the steps given below:": [
+              "Step 1: Click the Slide Show tab on the ribbon.",
+              "Step 2: Select from Beginning or From Current Slide. Or, you can press F5 Key.",
+              "Step 3: Press Enter or Page Down to move to the next slide.",
+              "Step 4: Press P or Page Up to move to the previous slide.",
+              "Step 5: Press Home to move the first slide in the show.",
+              "Step 6: Press End to move to the last slide in the show.",
+              "Step 7: Press W to display a white screen.",
+              "Step 8: Press B to display black screen.",
+              "Step 9: Press ESC to exit Slide Show view."
+            ]
+          }
+        ],
+        "completion": false,
+        "bookmark": false
+      },
+      {
+        "id": 7,
+        "type": "QuestionPointsDescriptionPoints",
+        "question": "Viewing Slide",
+        "description": "The views in MS PowerPoint that you can use to edit, print, and deliver your presentation are:",
+        "image": "",
+        "points": [
+          {
+            "pointTitle": "",
+            "pointDescription": "",
+            "subPoints": [
+              {
+                "subpointTitle": "Normal View:",
+                "subpointDescription": "Normal View is the main editing view. It is used to write and design presentations."
+              },
+              {
+                "subpointTitle": "- Outline View:",
+                "subpointDescription": "This view displays the text and bullet points on your slides in a hierarchical outline format. You can use this view to quickly review and edit the content of your presentation."
+              },
+              {
+                "subpointTitle": "Slide Sorter View:",
+                "subpointDescription": "In this view, you can see all of your slides at once and rearrange them by clicking and dragging."
+              },
+              {
+                "subpointTitle": " Note Page:",
+                "subpointDescription": "The note page allows you to view, edit or add ntes to each of your slides, which can then be printed as handouts."
+              },
+              {
+                "subpointTitle": "Reading View:",
+                "subpointDescription": "This view allows you to view your presentation in a full-screen mode, with each slide advancing automatically. This can be useful for reviewing your presentation or practicing your delivery."
+              }
+            ]
+          }
+        ],
+        "completion": false,
+        "bookmark": false
+      },
+      {
+        "id": 8,
+        "type": "QuestionPointsAnswer",
+        "question": "Printing Slide",
+        "image": "link",
+        "points": [
+          {
+            "Once you've finished creating your presentation, it's time to print. To print slide, follow the steps given below:": [
+              "Step 1: Go to the File tab.",
+              "Step 2: Select the printer you want to use in the Print window and adjust settings such as the number of copies and the page range or slides range.",
+              "Step 3: Click on Print button. This wll send the slides to the printer."
+            ]
+          }
+        ],
+        "completion": false,
+        "bookmark": false
+      },
+      {
+        "id": 9,
+        "type": "QuestionPointsDescriptionPoints",
+        "question": "Formatting Slide Design",
+        "description": "Formatting slide design in PowerPoint involves using the various tools available to personalize and customize the appearance of a presentation. This includes adjusting the background, text, images, shapes, and other elements of a slide.",
+        "image": "",
+        "points": [
+          {
+            "pointTitle": "Change Background",
+            "pointDescription": "To change background, follow the steps given below:",
+            "subPoints": [
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 1: Click on Design tab."
+              },
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 2: In the 'Background' group, click on 'Background Styles' button and then choose any Background color from the list."
+              },
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 3: If you want to apply change to all slides, click on Apply to All."
+              }
+            ]
+          },
+          {
+            "pointTitle": "Change Layout",
+            "pointDescription": "To change layout, follow the given steps:",
+            "subPoints": [
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 1: Click on Layout option in the Slides group."
+              },
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 2: Choose the layout that best fits the content of your slide from the layout menu."
+              }
+            ]
+          },
+          {
+            "pointTitle": "Add Graphics or Media",
+            "pointDescription": "To add graphics or media, follow the steps given below:",
+            "subPoints": [
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 1: Click on Insert tab."
+              },
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 2: In the 'Illustration' group, click on the 'Shape' or 'Picture' button to insert a shape or picture, respectively. In the Media group, click on the 'Video' or 'Audio' button to insert a video or audio clip."
+              }
+            ]
+          },
+          {
+            "pointTitle": "Change font and text formatting",
+            "pointDescription": "To change font and text formatting, follow the steps given below:",
+            "subPoints": [
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 1: click on the 'Home' tab."
+              },
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 2: In the 'Font' group, you can use the buttons to change the font, font size, and text color."
+              },
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 3: You can also use the 'Paragraph' group to align the text, add bullets or numbering, and adjust the line spacing."
+              }
+            ]
+          }
+        ],
+        "completion": false,
+        "bookmark": false
+      }
+    ]
+  }
