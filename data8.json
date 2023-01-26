@@ -1,0 +1,904 @@
+{
+    "id": 6,
+    "title": "Microsoft Word",
+    "resources": [
+      {
+        "id": 1,
+        "type": "QuestionAnswerPoints",
+        "question": "MS Word",
+        "image": "",
+        "answer": "Microsoft Word is a word processing program developed by Microsoft. It is the most widely used program for creating documents such as letters, reports, resumes, and other written documents. Word allows users to easily create, edit, format, and print documents. It also includes features such as spell check, grammar check, and document conversion. Word also has features that allow users to collaborate on documents with others.",
+        "points": [
+          {
+            "To Create New Document": [
+              "Step 1: First of all, Open Ms Word.",
+              "Step 2: Click the “File” tab.",
+              "Step 3: Select “New” from the left sidebar.",
+              "Step 4: Choose a template or click “Blank Document” to create a new document from scratch.",
+              "Step 5: Click “Create” to open the new document.",
+              "Alternatively, Click the shortcut key Ctrl + N to create new document."
+            ]
+          },
+          {
+            "To Save New Document": [
+              "Step 1: Click on the 'File' tab in the top left corner.",
+              "Step 2: From the menu that appears, click on the Save option.",
+              "Step 3: Select the location where you want the file to be saved.",
+              "Step 4: Type a name for your document.",
+              "Step 5: Click on Save button.",
+              "Alternatively, Click the shortcut key Ctrl + S to save new document."
+            ]
+          },
+          {
+            "To Open Document": [
+              "Step 1: Click the File tab.",
+              "Step 2: Select Open from the list of options.",
+              "Step 3: Navigate to the folder where the document you want to open is located, and double-click the file.",
+              "Or, Users can press Ctrl + O to open the document."
+            ]
+          },
+          {
+            "To Delete Document- You can delete the document in two ways. They are given below: /n From Word itself": [
+              "Step 1: Click File.",
+              "Step 2: Click on Open.",
+              "Step 3: Locate the file you want to delete.",
+              "Step 4: Right click the file, then click Delete on the shortcut menu.",
+              "Or, From File Explorer",
+              "Step 1: Open the file explorer.",
+              "Step 2: Locate the file you want to delete.",
+              "Step 3: Select the file and press Delete key, or Right click the file, then click Delete on the shortcut menu."
+            ]
+          }
+        ],
+        "completion": false,
+        "bookmark": false
+      },
+      {
+        "id": 2,
+        "type": "QuestionPointsDescriptionPoints",
+        "question": "Formatting Document",
+        "description": "Formatting a document in Microsoft Word involves adjusting various elements of the document, such as font, font size, font color, alignment and other aspect of text.",
+        "image": "",
+        "points": [
+          {
+            "pointTitle": "Font:",
+            "pointDescription": "The font is the type of lettering used for the text. You can choose from a variety of fonts, such as Arial, Times New Roman, Calibri, and more. And, Calibri is the default font in MS Word. The following are the steps to change the font:",
+            "subPoints": [
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 1: Select the text that you want to change the font for. You can also press Ctrl + A on your keyboard to select all of the text in the document."
+              },
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 2: In the toolbar at the top of the screen, click on the 'Home' tab."
+              },
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 3: In the font section of the toolbar, click on the arrow next to the current font to open the list of available fonts."
+              },
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 4: Scroll through the list of fonts and click on the font that you want to use."
+              },
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 5: The selected text will now be updated with the new font."
+              }
+            ]
+          },
+          {
+            "pointTitle": "Font Size:",
+            "pointDescription": "The font size is the size of the lettering. You can choose from a variety of sizes, such as 8 point, 10 point, 12 point, etc. However, the default font size is 11 point. The following are the steps to change the font size:",
+            "subPoints": [
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 1: Select the text that you want to change the font size for."
+              },
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 2: On the Home tab, in the Font group, click the Font Size drop-down arrow and select the desired font size."
+              },
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 3: If the font size you want is not available in the drop-down menu, you can also type the font size directly into the Font Size box and press Enter."
+              },
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 4: Your selected text should now be changed to the font size you selected."
+              },
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Alternatively, you can also change the font size using keyboard shortcuts. To increase the font size, press Ctrl + Shift + >. To decrease the font size, press Ctrl + Shift + <. To return the font size to its default value, press Ctrl + Shift + F."
+              }
+            ]
+          },
+          {
+            "pointTitle": "Font Color:",
+            "pointDescription": "The font color is the color of the lettering. You can choose from a variety of colors, such as black, blue, red, green, etc. The steps to change the font color are given below:",
+            "subPoints": [
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 1: Select the text that you want to change the font color for."
+              },
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 2: On the Home tab, in the Font group, click the Font Color drop-down arrow and select the desired font color from the theme colors or standard colors."
+              }, 
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 3: If the font color you want is not available in the drop-down menu, you can also click More Colors to access a wider range of color options, including custom colors."
+              },
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 4: Your selected text should now be changed to the font color you selected."
+              },
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Alternatively, you can also change the font color using keyboard shortcuts. To open the Font Color drop-down menu, press Alt + H + FC. Then, use the up and down arrow keys to select the desired font color, and press Enter to apply it to your selected text. You can also use the numeric keypad to enter the font color code directly, and press Enter to apply it."
+              }
+            ]
+          },
+          {
+            "pointTitle": "Apply bold, italic and underlining in the text",
+            "pointDescription": "To apply bold, italic, and underlining in the text, follow the given steps:",
+            "subPoints": [
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 1: Select the text that you want to format."
+              },
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 2: To apply bold formatting, click the 'Bold' button in the 'Font' section of the 'Home' tab. Alternatively, you can press Ctrl+B on your keyboard."
+              },
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 3: To apply italic formatting, click the 'Italic' button in the 'Font' section of the 'Home' tab. Alternatively, you can press Ctrl+I on your keyboard."
+              },
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 4: To apply underline formatting, click the 'Underline' button in the 'Font' section of the 'Home' tab. Alternatively, you can press Ctrl+U on your keyboard."
+              },{
+                "subpointTitle": "",
+                "subpointDescription": "Step 5: The selected text will now appear in bold, italic, or underlined, depending on the formatting you applied."
+              }
+            ]
+          },
+          {
+            "pointTitle": "Add Bullet point or Numbering",
+            "pointDescription": "To add bullet point or numbering in the document, follow the given steps:",
+            "subPoints": [
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 1: Place your cursor where you want to insert the bullet points or numbering."
+              },
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 2: To insert bullet points, click the 'Bullets' button in the 'Paragraph' section of the 'Home' tab. This will add a bullet point for each paragraph you type."
+              },
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 3: To insert numbering, click the 'Numbering' button in the 'Paragraph' section of the 'Home' tab. This will add a numbered list for each paragraph you type."
+              },
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 4: Type your bullet points or numbered items, pressing Enter after each one to move to the next item in the list."
+              },{
+                "subpointTitle": "",
+                "subpointDescription": "Step 5: To end the list, press Enter twice or click the 'Bullets' or 'Numbering' button again to turn off the formatting."
+              }
+            ]
+          },
+          {
+            "pointTitle": "To Align Text",
+            "pointDescription": "The following are the steps to align the text:",
+            "subPoints": [
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 1: Select the text that you want to align."
+              },
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 2: Go to the 'Home' tab on the ribbon."
+              },
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 3: In the 'Paragraph' section, click on the 'Align Left' icon to align the text to the left margin, the 'Center' icon to center the text, or the 'Align Right' icon to align the text to the right margin."
+              },
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 4: If you want to justify the text, meaning that it is aligned along both the left and right margins, click on the 'Justify' icon in the 'Paragraph' section on the 'Home' tab."
+              },{
+                "subpointTitle": "",
+                "subpointDescription": "Alternatively, you can use the keyboard shortcut Ctrl+L to align the selected text to the left margin, Ctrl+E to center the text, Ctrl+R to align the text to the right margin, Ctrl+J to justify the text, and Ctrl+Shift+A to distribute the text evenly between the left and right margins."
+              }
+            ]
+          },
+          {
+            "pointTitle": "Page Layout",
+            "pointDescription": "Page layout in Microsoft Word refers to the overall design and formatting of a document, including the page margins, the page orientation (portrait or landscape), the page size, and the page background. To change the page layout in Microsoft Word, follow these steps:",
+            "subPoints": [
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 1: Click the 'Layout' tab in the ribbon at the top of the screen."
+              },
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 2: In the 'Page Setup' group, click the 'Page Setup' button to open the 'Page Setup' dialog box."
+              },
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 3: In the 'Page' tab of the 'Page Setup' dialog box, you can specify the page margins, the page orientation, the page size, and other options."
+              },
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 4: In the 'Page Background' tab of the 'Page Setup' dialog box, you can specify the page color or background image, the watermark, and other options."
+              },{
+                "subpointTitle": "",
+                "subpointDescription": "Step 5: Click 'OK' to apply the page layout settings to the document."
+              }
+            ]
+          }
+        ],
+        "completion": false,
+        "bookmark": false
+      },
+      {
+        "id": 3,
+        "type": "QuestionPointsDescriptionPoints",
+        "question": "Inserting",
+        "description": "The Insert function in Microsoft Word allows users to add various types of content to their documents. This includes text, images, tables, shapes, equations, and links. The Insert tab on the Ribbon provides access to all of these options and more. In addition, users can also insert page breaks, headers, footers, and page numbers. Word also allows users to quickly insert clip art and online pictures.",
+        "image": "",
+        "points": [
+          {
+            "pointTitle": "Insert Cover Page",
+            "pointDescription": "To insert cover page, follow the steps given below:",
+            "subPoints": [
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 1: Go to the 'Insert' tab on the ribbon."
+              },
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 2: In the 'Pages' section, click on the 'Cover Page' icon."
+              },
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 3: From the drop-down menu, select the cover page design that you want to use."
+              },
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 4: The selected cover page will be inserted at the beginning of your document."
+              },
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 5: If you want to customize the cover page, you can do so by clicking on the different elements on the cover page, such as the title and subtitle, and then entering your own text."
+              },
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 6: If you want, you can also add or remove elements from the cover page by clicking on the 'Cover Page' icon again and selecting the 'Edit Cover Page' option from the drop-down menu."
+              }
+            ]
+          },
+          {
+            "pointTitle": "Insert Page Break",
+            "pointDescription": "To insert Page Break, follow the steps given below:",
+            "subPoints": [
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 1: Move the cursor to the point in the document where you want to insert the page break."
+              },
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 2: Go to the 'Insert' tab in the Word ribbon at the top of the screen."
+              },
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 3: In the 'Pages' section of the 'Insert' tab, click the 'Page Break' button."
+              },
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 4: The page break will be inserted at the cursor's current position, and the text after the page break will be moved to the next page."
+              },
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Alternatively, you can use the keyboard shortcut 'Ctrl+Enter' to quickly insert a page break at the cursor's current position. "
+              }
+            ]
+          },
+          {
+            "pointTitle": "Insert Table",
+            "pointDescription": "To insert Table, follow the steps given below:",
+            "subPoints": [
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 1: Position the cursor where you want to insert the table."
+              },
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 2: Click the 'Insert' tab on the ribbon at the top of the Word window."
+              }, 
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 3: Click the 'Table' button in the 'Tables' group."
+              },
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 4: Select the number of columns and rows you want in your table. You can also use the 'Draw Table' option to create a custom table by clicking and dragging your mouse to draw the table on the page."
+              },
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 5: The table will be inserted at the cursor position. You can then add content to the cells of the table and format it as desired."
+              }
+            ]
+          },
+          {
+            "pointTitle": "Insert WordArt",
+            "pointDescription": "To insert WordArt, follow the steps given below:",
+            "subPoints": [
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 1: Position the cursor where you want to insert the WordArt."
+              },
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 2: Click the 'Insert' tab on the ribbon at the top of the Word window."
+              },
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 3: Click the 'WordArt' button in the 'Illustrations' group."
+              },
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 4: Select the WordArt style you want to insert from the options that appear."
+              },{
+                "subpointTitle": "",
+                "subpointDescription": "Step 5: The WordArt will be inserted at the cursor position. You can then type the text you want to include in the WordArt and format it as desired."
+              }
+            ]
+          },
+          {
+            "pointTitle": "Insert Header and Footer",
+            "pointDescription": "To insert Header and Footer, follow the steps given below:",
+            "subPoints": [
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 1: Click the 'Insert' tab on the ribbon at the top of the Word window."
+              },
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 2: To insert bullet points, click the 'Bullets' button in the 'Paragraph' section of the 'Home' tab. This will add a bullet point for each paragraph you type."
+              },
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 3: Select a pre-designed header or footer from the options that appear, or create a custom header or footer by selecting 'Edit Header' or 'Edit Footer'."
+              },
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 4: The header or footer will be inserted at the top or bottom of each page in the document. You can then add content to the header or footer and format it as desired."
+              }
+            ]
+          },
+          {
+            "pointTitle": "Insert Page Number",
+            "pointDescription": "To insert Page Number, follow the steps given below:",
+            "subPoints": [
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 1: Click the 'Insert' tab on the ribbon at the top of the Word window."
+              },
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 2: Click the 'Page Number' button in the 'Header & Footer' group."
+              },
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 3: Select the location and formatting for the page numbers from the options that appear."
+              },
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 4: The page numbers will be inserted at the selected location. You can then customize the page numbers as needed."
+              }
+            ]
+          },
+          {
+            "pointTitle": "Insert Chart",
+            "pointDescription": "To insert Chart, follow the steps given below:",
+            "subPoints": [
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 1: Position the cursor where you want to insert the chart."
+              },
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 2: Click the 'Insert' tab on the ribbon at the top of the Word window."
+              },
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 3: Click the 'Chart' button in the 'Illustrations' group."
+              },
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 4: Select the type of chart you want to insert from the options that appear."
+              },{
+                "subpointTitle": "",
+                "subpointDescription": "Step 5: The chart will be inserted at the cursor position. You can then add data to the chart and format it as desired."
+              }
+            ]
+          },
+          {
+            "pointTitle": "Insert Symbols",
+            "pointDescription": "To insert Symbols, follow the steps given below:",
+            "subPoints": [
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 1: Click on the 'Insert' tab in the ribbon at the top of the screen."
+              },
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 2: In the 'Symbols' section, click on the 'Symbol button. This will open the 'Symbol' dialog box."
+              },
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 3: In the 'Symbol' dialog box, select the font that contains the symbol you want to insert. You can select the 'More Symbols' option to see a list of all the fonts on your computer and choose the one you want."
+              },
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 4: Scroll through the list of symbols in the selected font, or use the search box at the top of the dialog box to find the symbol you want to insert."
+              },{
+                "subpointTitle": "",
+                "subpointDescription": "Step 5: Once you have found the symbol you want to insert, click on it to select it, and then click on the 'Insert' button. This will insert the symbol into your document at the location of your cursor."
+              },{
+                "subpointTitle": "",
+                "subpointDescription": "Step 6: If you want to insert multiple symbols, you can select them all in the 'Symbol' dialog box and then click on the 'Insert' button to insert them all at once."
+              }
+            ]
+          },
+          {
+            "pointTitle": "Draw Shape",
+            "pointDescription": "To draw a Shape, follow the steps given below:",
+            "subPoints": [
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 1: Place your cursor where you want to insert the shape."
+              },
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 2: Click on the 'Insert' tab in the ribbon at the top of the screen."
+              },
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 3: In the 'Illustrations' section, click on the 'Shapes' button. This will open the 'Shapes' menu, which contains a variety of pre-made shapes that you can insert into your document."
+              },
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 4: Scroll through the list of shapes and select the one you want to insert."
+              },{
+                "subpointTitle": "",
+                "subpointDescription": "Step 5: The shape will appear as a floating object in your document. You can move the shape to a different location by clicking on it and dragging it to the desired location."
+              },{
+                "subpointTitle": "",
+                "subpointDescription": "Step 6: To resize the shape, click on it to select it, and then drag the resizing handles that appear around the edges of the shape to resize it. For rotating the shape click on the rotation handle that appears above it and drag it to the desired angle."
+              },{
+                "subpointTitle": "",
+                "subpointDescription": "Step 7: To add text to the shape, click on the shape to select it, and then type the text you want to add. You can format the text using the options in the 'Format' tab that appears in the ribbon when the shape is selected."
+              },{
+                "subpointTitle": "",
+                "subpointDescription": "Step 8: To customize the appearance of the shape, right-click on the shape and select 'Format Shape' from the context menu. You can change the shape's fill color, line color, and other formatting options."
+              }
+            ]
+          },
+          {
+            "pointTitle": "Create Textbox",
+            "pointDescription": "To create textbox, follow the steps given below:",
+            "subPoints": [
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 1: Place your cursor where you want to insert the text box."
+              },
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 2: Click on the 'Insert' tab in the ribbon at the top of the screen."
+              },
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 3: In the 'Text' section, click on the 'Text Box' button. This will open the 'Insert Text Box' menu, which contains a variety of pre-made text box styles that you can insert into your document."
+              },
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 4: Scroll through the list of text box styles and select the one you want to insert."
+              },{
+                "subpointTitle": "",
+                "subpointDescription": "Step 5: The text box will appear as a floating object in your document. You can move the text box to a different location by clicking on it and dragging it to the desired location."
+              },{
+                "subpointTitle": "",
+                "subpointDescription": "Step 6: To resize the text box, click on it to select it, and then drag the resizing handles that appear around the edges of the text box to resize it."
+              },{
+                "subpointTitle": "",
+                "subpointDescription": "Step 7: To add text to the text box, click on the text box to select it, and then type the text you want to add. You can format the text using the options in the 'Format' tab that appears in the ribbon when the text box is selected."
+              },{
+                "subpointTitle": "",
+                "subpointDescription": "Step 8: After that, you can format the text box from Fromat tab."
+              }
+            ]
+          },
+          {
+            "pointTitle": "Drop Cap",
+            "pointDescription": "A drop cap is the first letter of any document that appears in a larger than normal and more interesting font than the other characters. To add a Drop Cap, follow the given steps:",
+            "subPoints": [
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 1: Type or Open the document."
+              },
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 2: Select the first character at the start of your paragraph."
+              },
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 3: Click the 'Insert' tab in the ribbon."
+              },
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 4: Click the 'Drop Cap' button in the 'Text' group."
+              },{
+                "subpointTitle": "",
+                "subpointDescription": "Step 5: In the 'Drop Cap' options, choose the position and appearance of the drop cap."
+              },{
+                "subpointTitle": "",
+                "subpointDescription": "Step 6: Click 'OK' to apply the drop cap to the selected text."
+              }
+            ]
+          },
+          {
+            "pointTitle": "Bookmark",
+            "pointDescription": "A bookmark is a marker in a document that can be linked to. To create Bookmark, follow the step given below:",
+            "subPoints": [
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 1: Select the text or object where you want to create the bookmark."
+              },
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 2: Click the 'Insert' tab in the ribbon."
+              },
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 3: Click the 'Bookmark' button in the 'Links' group."
+              },
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 4: In the 'Bookmark' dialog box, type a name for the bookmark in the 'Bookmark name' field."
+              },{
+                "subpointTitle": "",
+                "subpointDescription": "Step 5: Click 'Add' to create the bookmark."
+              }
+            ]
+          },
+          {
+            "pointTitle": "Create HyperLink",
+            "pointDescription": "A hyperlink is a link from a document that opens another page or file when you click it. To create Hyperlink, follow the step given below:",
+            "subPoints": [
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 1: Select the text or object that you want to turn into a hyperlink."
+              },
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 2: Click the 'Insert' tab in the ribbon."
+              },
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 3: Click the 'Hyperlink' button in the 'Links' group."
+              },
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 4: In the 'Insert Hyperlink' dialog box, enter the destination URL in the 'Address' field."
+              },{
+                "subpointTitle": "",
+                "subpointDescription": "Step 5: You can also choose to display a different text for the hyperlink by entering it in the 'Text to display' field."
+              },{
+                "subpointTitle": "",
+                "subpointDescription": "Step 6: Click 'OK' to insert the hyperlink into the document."
+              }
+            ]
+          },
+          {
+            "pointTitle": "Equation",
+            "pointDescription": "To insert Equation, follow the given step:",
+            "subPoints": [
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 1: Position the cursor where you want to insert the equation."
+              },
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 2: Click the 'Insert' tab in the ribbon."
+              },
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 3: Click the 'Equation' button in the 'Symbols' group."
+              },
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 4: This will open the 'Insert New Equation' dialog box, which contains a list of commonly used equations and symbols. or, Click on Insert New Equation option at the bottom of the list."
+              },{
+                "subpointTitle": "",
+                "subpointDescription": "Step 5: To insert an equation, select it from the list and click 'Insert'."
+              }
+            ]
+          },
+          {
+            "pointTitle": "Macros",
+            "pointDescription": "Macros are advanced features that can speed up editing or formatting you may perform often in a Word document. To create macro, follow the steps given below:",
+            "subPoints": [
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 1: Click the 'View' tab in the ribbon."
+              },
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 2: In the 'Macros' group, click the 'Macros' button."
+              },
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 3: In the 'Macros' dialog box, click the 'New' button."
+              },
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 4: In the 'Create Macro' dialog box, type a name for the macro in the 'Macro name' field."
+              },{
+                "subpointTitle": "",
+                "subpointDescription": "Step 5: Use the buttons in the 'Macro Editor' to record your actions. For example, you can insert text, format a paragraph, or insert a table."
+              },{
+                "subpointTitle": "",
+                "subpointDescription": "Step 6: When you're finished recording your actions, click the 'Stop Recording' button in the 'Macro Editor'."
+              },{
+                "subpointTitle": "",
+                "subpointDescription": "Step 7: Click 'OK' to save the macro."
+              }
+            ]
+          },
+          {
+            "pointTitle": "Creating Columns",
+            "pointDescription": "To create Columns, follow the steps given below:",
+            "subPoints": [
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 1: Select the text that you want to divide into columns."
+              },
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 2: Click the 'Layout' tab in the ribbon at the top of the screen."
+              },
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 3: In the 'Page Setup' group, click the 'Columns' button."
+              },
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 4: Select the number of columns you want to create. You can choose from a preset number of columns, or choose 'More Columns' to specify the exact number and width of the columns."
+              },{
+                "subpointTitle": "",
+                "subpointDescription": "Step 5: The selected text will be divided into the specified number of columns."
+              }
+            ]
+          },
+          {
+            "pointTitle": "Add Line Numbers",
+            "pointDescription": "To add Line Number, follow the steps given below:",
+            "subPoints": [
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 1: Click the 'Layout' tab in the ribbon at the top of the screen."
+              },
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 2: In the 'Page Setup' group, click the 'Line Numbers' button."
+              },
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 3: Then click Continuous, Restart Each Page, Restart Each Section, Supress for Current Paragraph, or Line Numbering Options."
+              },
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 4: The selected text will be numbered according to the chosen line numbering format."
+              }
+            ]
+          },
+          {
+            "pointTitle": "Hyphenation",
+            "pointDescription": "This option allows word to be break lines between the syllables of words. To enable hyphenation, follow the steps given below:",
+            "subPoints": [
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 1: Click the 'Layout' tab in the ribbon at the top of the screen."
+              },
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 2: In the 'Page Setup' group, click the 'Hyphenation' button."
+              },
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 3: In the drop-down menu, select the 'Automatic' option to enable automatic hyphenation."
+              }
+            ]
+          },
+          {
+            "pointTitle": "Watermark",
+            "pointDescription": "Watermarks are transparent, and therefore any text or object printed over a watermark is clearly visible. To add Watermark, follow the steps given below:",
+            "subPoints": [
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 1: Click on 'Layout' tab."
+              },
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 2: Click the 'Watermark' button."
+              },
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 3: Click any one style."
+              }
+            ]
+          },
+          {
+            "pointTitle": "Table of Contents",
+            "pointDescription": "To create table of contents, follow the steps given below:",
+            "subPoints": [
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 1: Format the text as headings by selecting the appropriate 'Heading' style from the 'Styles' group on the 'Home' tab in the ribbon. For example, you can use the 'Heading 1' style for main headings, 'Heading 2' for subheadings, and so on."
+              },
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 2: Click the 'References' tab in the ribbon at the top of the screen."
+              },
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 3: In the 'Table of Contents' group, click the 'Table of Contents' button."
+              },
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 4: In the drop-down menu, select the 'Automatic Table 1' or 'Automatic Table 2' option. This will create a table of contents based on the headings you have applied to the text."
+              }
+            ]
+          },
+          {
+            "pointTitle": "Footnotes and Endnotes",
+            "pointDescription": "To insert Footnotes and Endnotes, follow the steps given below:",
+            "subPoints": [
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 1: Place your cursor at the end of the sentence or phrase where you want to insert the footnote or endnote."
+              },
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 2: Click the 'References' tab in the ribbon at the top of the screen."
+              },
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 3: In the 'Footnotes' group, click the 'Insert Footnote' or 'Insert Endnote' button."
+              },
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 4: A reference number or symbol will be inserted at the end of the sentence or phrase, and a corresponding note will be added at the bottom of the page (for a footnote) or at the end of the document (for an endnote)."
+              }
+            ]
+          },
+          {
+            "pointTitle": "Adding Captions",
+            "pointDescription": "To add Captions, follow the steps given below:",
+            "subPoints": [
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 1: Select the object (figure, table, etc.) that you want to add a caption to."
+              },
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 2: Click the 'References' tab in the ribbon at the top of the screen."
+              },
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 3: In the 'Captions' group, click the 'Insert Caption' button."
+              },
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Step 4: In the 'Caption' dialog box, specify the label and position for the caption, and select a caption style from the 'Caption Style' drop-down menu."
+              },{
+                "subpointTitle": "",
+                "subpointDescription": "Step 5: Click 'OK' to insert the caption."
+              }
+            ]
+          },
+          {
+            "pointTitle": "Mail Merge",
+            "pointDescription": "Mail Merge is a feature in Microsoft Word that allows you to create personalized documents, such as forms letters or mailing Labels, by merging data from both MS Word and MS Excel. The basic steps to perform a mail merge in MS Word are as follows:",
+            "subPoints": [
+              {
+                "subpointTitle": "1. Create a data source:",
+                "subpointDescription": "This can be a spreadsheet or a database containing the information that you want to merge into your document. The data source should have a column for each piece of information that you want to include in your document, such as names, addresses, and so on."
+              },
+              {
+                "subpointTitle": "2. Create a template document: ",
+                "subpointDescription": "This is the document that you will use as the basis for your mail merge. The template should include placeholders for the information that you want to merge from your data source, such as names and addresses."
+              },
+              {
+                "subpointTitle": "3. Start the mail merge process:",
+                "subpointDescription": "In Word, go to the Mailings tab and click on the Start Mail Merge button. From there, you can choose the type of document you want to create, such as letters, emails, or labels."
+              },
+              {
+                "subpointTitle": "4. Select the data source:",
+                "subpointDescription": "After you have chosen the type of document, you will be prompted to select your data source. You can either select an existing data source or create a new one."
+              },{
+                "subpointTitle": "5. Insert the merge fields:",
+                "subpointDescription": "Once you have selected your data source, you can insert merge fields into your template document. Merge fields are placeholders that will be replaced with data from your data source when the merge is completed."
+              },{
+                "subpointTitle": "6. Preview and finish the merge:",
+                "subpointDescription": "You can preview the merge to make sure that everything looks correct, then you can execute the merge and produce the final document, where each merge field are replaced with the data from the data source."
+              }
+            ]
+          }
+        ],
+        "completion": false,
+        "bookmark": false
+      },
+      {
+        "id": 4,
+        "type": "QuestionPointsDescriptionPoints",
+        "question": "Parts of MS Word Window",
+        "description": "The main parts of Word window are given below:",
+        "image": "",
+        "points": [
+          {
+            "pointTitle": "",
+            "pointDescription": "",
+            "subPoints": [
+              {
+                "subpointTitle": "The ribbon:",
+                "subpointDescription": "This is the strip at the top of the window that contains the tabs and groups of commands for working with the document."
+              },
+              {
+                "subpointTitle": "The document area:",
+                "subpointDescription": "This is the main area of the window where the document text is displayed."
+              },
+              {
+                "subpointTitle": "The status bar:",
+                "subpointDescription": "This is the horizontal bar at the bottom of the window that displays information about the document, such as the page number and the number of words."
+              },
+              {
+                "subpointTitle": "The ruler:",
+                "subpointDescription": "This is the horizontal or vertical line that appears above or to the left of the document area, depending on the view. It can be used to adjust the margins, indentations, and other formatting options for the document."
+              },
+              {
+                "subpointTitle": "The scroll bars:",
+                "subpointDescription": "These are the vertical and horizontal bars that appear on the sides and bottom of the document area. They can be used to scroll through the document."
+              },
+              {
+                "subpointTitle": "The tabs:",
+                "subpointDescription": "These are the tabs that appear in the ribbon at the top of the window. Each tab contains a set of related commands for working with the document."
+              },
+              {
+                "subpointTitle": "The groups:",
+                "subpointDescription": "These are the groups of related commands that appear on each tab in the ribbon. For example, the 'Font' group on the 'Home' tab contains commands for changing the font and font size."
+              },
+              {
+                "subpointTitle": "The dialog boxes:",
+                "subpointDescription": "These are the windows that appear when you select certain commands in the ribbon or in the document. They can be used to specify additional options or settings for the selected command."
+              },
+              {
+                "subpointTitle": "The contextual tabs:",
+                "subpointDescription": "These are the tabs that appear only when a specific object, such as a picture or table, is selected in the document. They contain commands that are relevant to the selected object."
+              },
+              {
+                "subpointTitle": "The mini toolbar:",
+                "subpointDescription": "This is the small toolbar that appears near the selected text when you right-click or hover the mouse pointer over the text. It contains commonly used formatting commands for the selected text."
+              }
+            ]
+          }
+        ],
+        "completion": false,
+        "bookmark": false
+      }
+
+    ]
+  }
