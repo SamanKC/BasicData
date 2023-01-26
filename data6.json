@@ -1,0 +1,529 @@
+{
+  "id": 4,
+  "title": "Microsoft Excel",
+  "resources": [
+    {
+      "id": 1,
+      "type": "QuestionPointsDescriptionPoints",
+      "question": "MS Excel",
+      "description": "Microsoft Excel is a popular spreadsheet application that is part of the Microsoft Office suite of productivity tools. Excel allows users to organize and analyze data, create charts and graphs, and build complex formulas to perform calculations on the data. Excel provides a wide range of features to help users work with data, including formulas, pivot tables, charts, and macros. It is commonly used by individuals and organizations to manage and analyze large amounts of data. Excel is a great tool for many common tasks such as budgeting, accounting, data management and data analysis.",
+      "image": "",
+      "points": [
+        {
+          "pointTitle": "Parts of Excel Window",
+          "pointDescription": "The main parts of Excel Window are given below:",
+          "subPoints": [
+            {
+              "subpointTitle": "The Ribbon:",
+              "subpointDescription": "The Ribbon is located at the top of the Excel window and provides access to Excel's many features and commands. The Ribbon is organized into a series of tabs, each of which contains a set of related commands."
+            },
+            {
+              "subpointTitle": "The Formula Bar:",
+              "subpointDescription": "The Formula Bar is located just below the Ribbon and is used to enter and edit formulas."
+            },
+            {
+              "subpointTitle": "The Workspace:",
+              "subpointDescription": "The Workspace is the main area of the Excel window where you can enter, view, and manipulate data. It is divided into a series of rows and columns, with each cell representing a unique intersection of a row and a column."
+            },
+            {
+              "subpointTitle": "The Columns and Rows:",
+              "subpointDescription": "The Columns and Rows are the vertical and horizontal divisions of the Workspace. Columns are labeled with letters, and rows are labeled with numbers."
+            },
+            {
+              "subpointTitle": "The Cells:",
+              "subpointDescription": "The Cells are the individual intersections of rows and columns in the Workspace. Each cell can contain data, formulas, or formatting information."
+            },
+            {
+              "subpointTitle": "The Name Box:",
+              "subpointDescription": "The Name Box is located to the left of the Formula Bar and displays the address of the currently selected cell. It can also be used to quickly navigate to a specific cell or range of cells in the Worksheet."
+            },
+            {
+              "subpointTitle": "The Status Bar:",
+              "subpointDescription": "The Status Bar is located at the bottom of the Excel window and provides information about the current state of the Worksheet, such as the page number, the number of selected cells, and the sum of selected cells."
+            }
+          ]
+        }
+      ],
+      "completion": false,
+      "bookmark": false
+    },
+    {
+      "id": 2,
+      "type": "QuestionPointsAnswer",
+      "question": "Starting Excel",
+      "image": "link",
+      "points": [
+        {
+          "To start Excel, follow the given steps:": [
+            "Step 1: Click on the Start button.",
+            "Step 2: In the Start menu, type 'Excel' into the search box.",
+            "Step 3: Click on the Excel application in the search results to launch the program.",
+            "Alternatively, you can start Excel by locating the Microsoft Office folder in the Programs list on your computer and double-clicking on the Excel icon. If you have a shortcut to Excel on your desktop, you can also double-click on the shortcut to launch the program."
+          ]
+        }
+      ],
+      "completion": false,
+      "bookmark": false
+    },
+    {
+      "id": 3,
+      "type": "QuestionPointsAnswer",
+      "question": "Open New Workbook",
+      "image": "link",
+      "points": [
+        {
+          "To open New Workbook, follow the given steps:": [
+            "Step 1: Click on the Start button.",
+            "Step 2: In the Start menu, type 'Excel' into the search box.",
+            "Step 3: Click on the Excel application in the search results to launch the program.",
+            "Alternatively, you can start Excel by locating the Microsoft Office folder in the Programs list on your computer and double-clicking on the Excel icon. If you have a shortcut to Excel on your desktop, you can also double-click on the shortcut to launch the program."
+          ]
+        }
+      ],
+      "completion": false,
+      "bookmark": false
+    },
+    {
+      "id": 4,
+      "type": "QuestionPointsAnswer",
+      "question": "Save New Workbook",
+      "image": "link",
+      "points": [
+        {
+          "To Save New Workbook, follow the given steps:": [
+            "Step 1: Click on the 'File' tab in the top left corner of the screen.",
+            "Step 2: In the menu that appears, select the 'Save As' option.",
+            "Step 3: In the 'Save As' window, choose the location where you want to save the workbook.",
+            "Step 4: In the 'File name' field, enter a name for your workbook.",
+            "Step 5: Click on the 'Save' button to save the workbook in the selected location."
+          ]
+        }
+      ],
+      "completion": false,
+      "bookmark": false
+    },
+    {
+      "id": 5,
+      "type": "QuestionPointsAnswer",
+      "question": "Edit Workbook",
+      "image": "link",
+      "points": [
+        {
+          "To edit Workbook, follow the given steps:": [
+            "Step 1: Click on the 'File' tab in the top left corner of the screen.",
+            "Step 2: In the menu that appears, select the 'Open' option.",
+            "Step 3: In the 'Open' window, navigate to the location of the file you want to edit.",
+            "Step 4: Select the file you want to edit and click on the 'Open' button.",
+            "Step 5: The file will be opened in Excel, and you can make the change and edit the data in cells, add or delete rows or columns, change the formatting of the cells, and more.",
+            "Step 6: To save your changes, click on the 'File' tab in the top left corner of the screen.",
+            "Step 7: In the menu that appears, select the 'Save' option.",
+            "Step 8: The file will be saved with your changes."
+          ]
+        }
+      ],
+      "completion": false,
+      "bookmark": false
+    },
+    {
+      "id": 6,
+      "type": "DifferenceBetween",
+      "question": "To Move the Cell Pointer",
+      "description": "",
+      "image": "",
+      "colmun1": [
+        {
+          "Key:": [
+            "Right Arrow",
+            "Left Arrow",
+            "Up Arrow",
+            "Down Arrow",
+            "End + Right Arrow",
+            "End + Left Arrow",
+            "End + Up Arrow",
+            "End + Down Arrow",
+            "Tab",
+            "Tab + shift",
+            "Enter",
+            "Enter + shift",
+            "Ctrl + Enter",
+            "Ctrl + Home",
+            "Ctrl + End",
+            "Home",
+            "Page Up/ Page Down",
+            "Alt + Page Up/ Page Down",
+            "Ctrl + Page Up/ Page Down"
+          ]
+        }
+      ],
+      "colmun2": [
+        {
+          "Key:": [
+            "To next cell",
+            "To previous cell",
+            "To one row up",
+            "To one row down",
+            "To the end of the current row",
+            "To the beginning of the current row",
+            "To the beginning of the current column",
+            "To the end of the current column",
+            "To jump to next cell",
+            "To previous cell in row",
+            "To move down a column",
+            "To move up a cloumn",
+            "To preserve the position of the current cell",
+            "To move to the start of the data",
+            "To move to the end of the data",
+            "To move a column A",
+            "Instead of the scroll bar to move up and move down worksheets",
+            "To move a screen width across/back the worksheet",
+            "To move to the next/previous worksheet."
+          ]
+        }
+      ],
+      "completion": false,
+      "bookmark": false
+    },
+    {
+      "id": 7,
+      "type": "QuestionPointsDescriptionPoints",
+      "question": "To select cells, rows, columns, worksheets and objects",
+      "description": "Using key combinations to select data is even more important. To select cells, rows, colums, worksheets and objects, try as stated below:",
+      "image": "",
+      "points": [
+        {
+          "pointTitle": "",
+          "pointDescription": "",
+          "subPoints": [
+            {
+              "subpointTitle": " ",
+              "subpointDescription": "- To select cell, click and drag cursor to highlight the desired cells, or hold the shift key and use the arrow keys to extend the selection. Or,"
+            },
+            {
+              "subpointTitle": "",
+              "subpointDescription": "- Define required cell range at name box then, press Enter Key."
+            },
+            {
+              "subpointTitle": "",
+              "subpointDescription": "- To select entire rows or columns, click on the row or column header to highlight the entire row or column."
+            },
+            {
+              "subpointTitle": "",
+              "subpointDescription": "- To select a worksheet, click on click on the worksheet tab at the bottom of the spreadsheet."
+            },
+            {
+              "subpointTitle": "",
+              "subpointDescription": "- To select objects such as charts or images, you can click on the object to select it. Or,"
+            },
+            {
+              "subpointTitle": "",
+              "subpointDescription": "- You can also use the Select tool in the toolbar to select and manipulate objects in a spreadsheet."
+            }
+          ]
+        }
+      ],
+      "completion": false,
+      "bookmark": false
+    },
+    {
+      "id": 8,
+      "type": "QuestionAnswerPoints",
+      "question": "Working with Worksheet",
+      "image": "",
+      "answer": "",
+      "points": [
+        {
+          "Insert New Worksheet- To insert new worksheet, follow the given steps:": [
+            "Step 1: Click on the 'Insert' menu at the top of the screen and select 'Worksheet' from the dropdown menu.",
+            "Step 2: The new worksheet will appear as a new tab at the bottom of the screen, with the default name 'Sheet2' (or 'Sheet3' if you already have a worksheet named 'Sheet2').",
+            "Step 3: You can rename the new worksheet by double-clicking on the tab at the bottom of the screen and typing in a new name.",
+            "Step 4: You can start entering data into the cells of the new worksheet and save the workbook when you are done."
+          ]
+        },
+        {
+          "Inserting Row and Column- To insert row and column, follow the given steps:  ": [
+            "Step 1: Select and Right Click on the row above where you want to add new row. Then select 'Insert' from the dropdown menu. This will insert a new row above the selected row.",
+            "Step 2: Select and Right Click on the column above where you want to add new column. Then select 'Insert' from the dropdown menu. This will insert a new row above the selected column.",
+            "Step 3: The new row or column will be inserted into the worksheet and you can start entering data into the cells."
+          ]
+        },
+        {
+          "Merge Cell- To merge cells select the cells you want to merge and click the Merge & Center button on the Alignment group of the Home tab. The four choices are :": [
+            "- Merge & Center: Combines the cells and centers the contents in the new, larger cell.",
+            "- Merge Across: Combines the cells across columns without centering data.",
+            "- Merge Cells: Combines the cells in a range without centering.",
+            "- Unmegre Cells: Splits the cell that has been merged."
+          ]
+        },
+        {
+          "Align Cell Contents- There are several options for alignments of cell contents. They are:": [
+            "- Top Align: Aligns text to the top of the cell.",
+            "- Middle Align: Aligns text between the top and bottom of the cell.",
+            "- Bottom Align: Text are aligned to the bottom of the cell.",
+            "- Align Left: Text align to the left of the cell.",
+            "- Center: Centers the text from left to the right in the cell.",
+            "- Align Right: Text align to the right of the cell.",
+            "- Decrease Indent: Decreases the indent between the left border and the text.",
+            "- Increase Indent: Increase the indent between the left border and the text.",
+            "- Orientation: Rotate the text diagonally or vertically."
+          ]
+        },
+        {
+          "Formatting to Cells- In Excel, you can format cells to change the look of the data in them. To do this, select the cells that you want to format, right-click, and select Format Cells. There are many option of formatting such as font, alignment, border, and number formatting.": [
+            "- Number: Allows for the display of different number types and decimal places.",
+            "- Alignment: Allows for the horizontal and vertical alignment of text, wrap text, shrink text, merge cells and the direction of the text.",
+            "- Font: Font, font style, size, color, and additional features can be change or control.",
+            "- Border: Allows for border styles and colors.",
+            "- Fill: Allows for cell fill colors and styles."
+          ]
+        },
+        {
+          "Currency Symbols in Excel- To insert the currency symbol, follow the steps below:": [
+            "Step 1: Enter some prices on a sprreadsheet.",
+            "Step 2: Select the cell or cells where you want to insert the currency symbol.",
+            "Step 3: In the 'Home' tab of the ribbon, click the 'Number' group to expand it.",
+            "Step 4: In the 'Number' group, click the 'Currency' button to open the dropdown menu.",
+            "Step 5: From the dropdown menu, select the currency symbol that you want to insert. This will apply the currency format to the selected cells.",
+            "Step 6: Now, enter the numerical values for the currency in the selected cells. The currency symbol you selected will be automatically added to the values.",
+            "Step 7: If you want to customize the currency format further, you can click the 'Currency' button again and choose 'More currencies' from the dropdown menu. This will open the 'Format Cells' dialog box, where you can choose from a variety of currency formats and customize them as desired."
+          ]
+        },
+        {
+          "Adding data using Autofill- To add data using autofill, follow these steps:": [
+            "Step 1: Click on the cell or cells where you want to add data using autofill.",
+            "Step 2: In the 'Home' tab of the ribbon, click the 'Fill' group to expand it.",
+            "Step 3: In the 'Fill' group, click the 'Autofill' button to open the dropdown menu.",
+            "Step 4: From the dropdown menu, select the 'Series' option. This will open the 'Series' dialog box.",
+            "Step 5: In the 'Series' dialog box, select the type of data that you want to add using autofill. For example, you can choose to add a series of numbers, dates, or custom values.",
+            "Step 6: Specify the starting value, ending value, and other options for the series that you want to add.",
+            "Step 7: Click the 'OK' button to close the 'Series' dialog box and apply the autofill operation to the selected cells.",
+            "Step 8: The data will be added to the selected cells using the autofill operation."
+          ]
+        },
+        {
+          "Performing Calculation in Excel- To perform calculation, follow the steps given below:": [
+            "Step 1: Select the cell or cells where you want to perform the calculations.",
+            "Step 2: In the 'Home' tab of the ribbon, click the 'Editing' group to expand it.",
+            "Step 3: In the 'Editing' group, click the 'AutoSum' button to insert a formula for performing a basic calculation (such as sum, average, or minimum) in the selected cells.",
+            "Step 4: If you want to perform a more complex calculation, you can use one of the functions from the 'Formulas' tab of the ribbon. For example, you can use the 'SUM' function to add up a range of cells, the 'IF' function to perform conditional calculations.",
+            "Step 5: To use a function, enter the function and its arguments in the formula bar at the top of the Excel window. For example, to add up the values in cells A1 to A9, you would enter '=SUM(A1:A9)' in the formula bar.",
+            "Step 6: Once you have entered the formula in the formula bar, press Enter to evaluate the formula and display the result in the selected cells.",
+            "Step 7: You can edit the formula and its arguments as needed, and Excel will automatically update the result."
+          ]
+        }
+      ],
+      "completion": false,
+      "bookmark": false
+    },
+    {
+      "id": 8,
+      "type": "QuestionAnswerPoints",
+      "question": "Chart in Excel",
+      "image": "",
+      "answer": "A chart in Microsoft Excel is a graphical representation of data from a worksheet. It is used to communicate information visually and make it easier to understand and analyze data. There are many different types of charts available in Excel, including column charts, line charts, pie charts, bar charts, and scatter plots.",
+      "points": [
+        {
+          "Create a Chart- To create a chart, follow the given steps:": [
+            "Step 1: Select the data you want to include in the chart.",
+            "Step 2: Click the 'Insert' tab on the ribbon.",
+            "Step 3: Click the type of chart you want to create.",
+            "Step 4: The chart will be inserted in the worksheet. You can move and resize the chart as needed."
+          ]
+        },
+        {
+          "Modify a Chart- To modify a chart, follow the given steps:": [
+            "Step 1: Click the 'Design' tab on the chart tools ribbon.",
+            "Step 2: Use the options in the 'Data' group to modify the data source for the chart, add or remove data series, or change the chart type.",
+            "Step 3: Use the options in the 'Layout' group to change the chart title, axis labels, legend, and other aspects of the chart layout.",
+            "Step 4: Use the options in the 'Format' group to change the appearance of the chart, such as the fill color, border, or font."
+          ]
+        },
+        {
+          "Chart Tools- The chart tools in MS Excel are set of options and commands that allow you to create, modify, and format charts in a worksheet. The chart tools are divided into three tabs:": [
+            "Design: Within the Design tab you can cntrol the chart type, layout, styles, and location.",
+            "Layout: Within the Layout tab you can control option like; adding or modifying the chart title, axis labels, legend, gridlines, and other elements of the chart layout.",
+            "Format: Within the Format tab you can modify shape styles, word styles and size of the chart."
+          ]
+        },
+        {
+          "Copy Chart to Word- To copy chart to word, follow the given step:": [
+            "Step 1: In Excel, select the chart that you want to copy.",
+            "Step 2: On the 'Home' tab of the ribbon, click the 'Copy' button. This will copy the chart to the clipboard.",
+            "Step 3: In Word, click where you want to insert the chart.",
+            "Step 4: On the 'Home' tab of the ribbon, click the 'Paste' button. This will paste the chart into the Word document."
+          ]
+        }
+      ],
+      "completion": false,
+      "bookmark": false
+    },
+    {
+      "id": 9,
+      "type": "QuestionAnswerPoints",
+      "question": "Sort and Filter",
+      "image": "",
+      "answer": "Sorting and Filtering allow you to manipulate data in a worksheet based on a given set of criteria. Different types of sorting and filtering are:",
+      "points": [
+        {
+          "a) Basic Sorts": [
+            "Step 1: TO perform basic descending or ascending sort based on one column.",
+            "Step 2: Highlight the cells that will be sorted.",
+            "Step 3: Click the Sort & Filter button on the Home tab.",
+            "Step 4: Click the Sort Ascending ( A-Z ) button or Sort Descending ( Z-A ) button."
+          ]
+        },
+        {
+          "b) Custom Sorts": [
+            "Step 1: To sort on the basis of more than one column.",
+            "Step 2: Click the Sort & Filter button on the Home tab.",
+            "Step 3: Click Add Level.",
+            "Step 4: Choose the next column you want to sort.",
+            "Step 5: Click on OK."
+          ]
+        },
+        {
+          "c) Filter": [
+            "Step 1: Click the column or columns that contain the data you wish to filter.",
+            "Step 2: On the Home tab, click on Sort & Filter.",
+            "Step 3: Click Filter button.",
+            "Step 4: Click the Arrow at the bottom of the first cell.",
+            "Step 5: Click the Text Filter.",
+            "Step 6: Click the Words you wish to filter.",
+            "Step 7: To clear the filter click the Sort & Filter button.",
+            "Step 8: Click on Clear."
+          ]
+        }
+      ],
+      "completion": false,
+      "bookmark": false
+    },
+    {
+      "id": 10,
+      "type": "QuestionAnswerPoints",
+      "question": "Set Print Titles",
+      "image": "",
+      "answer": "The print titles function allows you to repeat the column and row headings at the beginning of each new page to make reading a multiple page sheet easier to read when printed.:",
+      "points": [
+        {
+          "To Print Titles:": [
+            "Step 1: Click the Page Layout tab on the Ribbon.",
+            "Step 2: Click the Print Titles button.",
+            "Step 3: In the Print Titles section, click the box to select the rows/columns to be repeated.",
+            "Step 4: Select the row or column.",
+            "Step 5: Click the Select Row/Column Button.",
+            "Step 6: Click on Ok."
+          ]
+        }
+      ],
+      "completion": false,
+      "bookmark": false
+    },
+    {
+        "id": 11,
+        "type": "QuestionAnswer",
+        "question": "Page Properties",
+        "image": "",
+        "answer": "In Microsoft Excel, you can adjust page properties by going to the 'Page Layout' tab and using the options in the 'Page Setup' group. Here, you can set the page size, margins, orientation, and other options such as the print area and the scale of the printed document.",
+        "completion": false,
+        "bookmark": false
+    },
+    {
+      "id": 12,
+      "type": "QuestionAnswerPoints",
+      "question": "Sub Total",
+      "image": "",
+      "answer": "Microsoft Excel can automatically summarize data by calculating subtotal and grand total values in a list.:",
+      "points": [
+        {
+          "To use sub total, follow the given steps:": [
+            "Step 1: Sort the required columns.",
+            "Step 2: Go to the 'Data' tab and click the 'Subtotal' button in the 'Outline' group.",
+            "Step 3: In the 'Subtotal' dialog box, select the column that you want to use for subtotals from the 'At each change in' drop-down list.",
+            "Step 4: Select the function that you want to use for the subtotals from the 'Use function' drop-down list. Options include sum, average, count, and others.",
+            "Step 5: Check the box next to any additional columns that you want to include in the subtotals.",
+            "Step 6: Click 'OK' to insert the subtotals."
+          ]
+        }
+      ],
+      "completion": false,
+      "bookmark": false
+    },
+    {
+      "id": 13,
+      "type": "QuestionAnswerPoints",
+      "question": "Pivot Table",
+      "image": "",
+      "answer": "Pivot Table is a tool that allows you to summarize and analyze large amounts of data easily and quickly.:",
+      "points": [
+        {
+          "To create Pivot table, follow the steps below:": [
+            "Step 1: Select the data that you want to include in the pivot table.",
+            "Step 2: Go to the 'Insert' tab and click the 'PivotTable' button in the 'Tables' group.",
+            "Step 3: In the 'Create PivotTable' dialog box, choose whether you want to create the pivot table in a new worksheet or an existing worksheet.",
+            "Step 4: Click 'OK' to create the pivot table."
+          ]
+        }
+      ],
+      "completion": false,
+      "bookmark": false
+    },
+    {
+      "id": 14,
+      "type": "QuestionAnswerPoints",
+      "question": "Password Protect",
+      "image": "",
+      "answer": "",
+      "points": [
+        {
+          "To password protect a worksheet, follow the steps given below:": [
+            "Step 1: Select the worksheet that you want to password protect.",
+            "Step 2: Go to the 'Review' tab and click the 'Protect Sheet' button in the 'Changes' group.",
+            "Step 3: In the 'Protect Sheet' dialog box, enter a password in the 'Password' field.",
+            "Step 4: Re-enter the password in the 'Confirm Password' field to confirm it.",
+            "Step 5: Click 'OK' to apply the password protection."
+          ]
+        }
+      ],
+      "completion": false,
+      "bookmark": false
+    },
+    {
+      "id": 15,
+      "type": "QuestionAnswerPoints",
+      "question": "Protect Cell",
+      "image": "",
+      "answer": "",
+      "points": [
+        {
+          "To protect cell, follow the steps given below:": [
+            "Step 1: Choose the cell that you want to protect.",
+            "Step 2: Go to the 'Review' tab and click the 'Protect Sheet' button in the 'Changes' group.",
+            "Step 3: In the 'Protect Sheet' dialog box, enter a password in the 'Password' field.",
+            "Step 4: Re-enter the password in the 'Confirm Password' field to confirm it.",
+            "Step 5: Click OK to apply the cell protection."
+          ]
+        }
+      ],
+      "completion": false,
+      "bookmark": false
+    },
+    {
+      "id": 16,
+      "type": "QuestionAnswerPoints",
+      "question": "Print Worksheet",
+      "image": "",
+      "answer": "",
+      "points": [
+        {
+          "To print worksheet, follow these steps:": [
+            "Step 1: Open the worksheet which you want to print.",
+            "Step 2: Go to the 'File' menu and select 'Print' or use the 'Ctrl + P' keyboard shortcut. This will bring up the print dialog.",
+            "Step 3: Set required options in the print dialog box.",
+            "Step 4: Click on the OK button."
+          ]
+        }
+      ],
+      "completion": false,
+      "bookmark": false
+    }
+  ]
+}
