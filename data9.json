@@ -1,0 +1,404 @@
+{
+  "id": 7,
+  "title": "Operating System",
+  "resources": [
+    {
+      "id": 1,
+      "type": "QuestionPointsDescriptionPoints",
+      "question": "Introduction to Operating System",
+      "description": "An Operating System (OS) is a software that acts as an interface between computer hardware components and the user. Every computer system must have at least one operating system to run other programs. The purpose of an OS is to provide an environment in which a user can execute programs conveniently and efficiently. It performs all the basic tasks like file management, memory management, process management, handling input and output, and controlling peripheral devices.",
+      "image": "",
+      "points": [
+        {
+          "pointTitle": "Functions of operating system",
+          "pointDescription": "",
+          "subPoints": [
+            {
+              "subpointTitle": "I/O Management:",
+              "subpointDescription": "OS manages I/O devices and makes the I/O process effective. OS accepts the from the input devices, stores it in the main memory, asks the CPU to process it and finally provides the result to the output devices for output."
+            },
+            {
+              "subpointTitle": "Command Interpreter:",
+              "subpointDescription": "Command interpreter reads the commands that user types in at a terminal, interprets them and translate them. Every OS must provide command interpreter for its operation."
+            },
+            {
+              "subpointTitle": "Memory Management:",
+              "subpointDescription": "Management of primary memory including keeps tracks of primary memory, allocate the memory when a process requests it and De-allocates the memory."
+            },
+            {
+              "subpointTitle": "Process Management:",
+              "subpointDescription": "OS finds the status of processor and processes, chooses a job, chooses processer in the job, allocates the processor and frees the processor."
+            },
+            {
+              "subpointTitle": "Time Sharing:",
+              "subpointDescription": "The time sharing function of the OS is a technique that enables a number of users, located at various terminals, to use a particular CPU of the computer system at the same time, property generally found in the network operating system. OS manages the time of CPU. The Kernel OS checks frequency for other processes requesting CPU time."
+            },
+            {
+              "subpointTitle": "Device Management:",
+              "subpointDescription": "An operating system manages device communication via their respective drivers. It also allocates devices in an effective and efficient way and de-allocates devices when they are no longer required."
+            },
+            {
+              "subpointTitle": "File Management:",
+              "subpointDescription": "A file system is normally organized into directories for easy navigation and usage . These directories may contain files and other directions. It helps in easily and quickly locating the files."
+            },
+            {
+              "subpointTitle": "Security:",
+              "subpointDescription": "OS makes sure that only authorized users get access to the computer and its data and the users only do the things they are authorized to do. By means of password and similar other techniques, it prevents unauthorized access to programs and data."
+            }
+          ]
+        },
+        {
+          "pointTitle": "Types of OS",
+          "pointDescription": "Different types of OS are:",
+          "subPoints": [
+            {
+              "subpointTitle": "• Multiuser OS",
+              "subpointDescription": "In a multiuser OS, more than one user can use the same system at the same time through the multi I/O terminal or through the network."
+            },
+            {
+              "subpointTitle": "• Multiprocessing OS",
+              "subpointDescription": "Multiprocessing OS support the execution of multiple processes at the same time. It helps to increase the program execution speed of the computer."
+            },
+            {
+              "subpointTitle": "• Multiprogramming OS",
+              "subpointDescription": "Multiprogramming OS used more than one program at the same time. User feels that CPU is working for a program, but in reality, the CPU is working for other programs also at the same time."
+            },
+            {
+              "subpointTitle": "• Multitasking OS",
+              "subpointDescription": "In multitasking OS, more than one task can be performed at the same time. This systems increase the productivity of users for the use of computers because users can execute many tasks, can compare the many outputs simultaneously."
+            },
+            {
+              "subpointTitle": "• Multithreading OS",
+              "subpointDescription": "Thread are the sub-process of the program. In Multithreading OS, more than one thread can run at the same time. This increases operating speed but also increases complexity."
+            },
+            {
+              "subpointTitle": "• Batch OS",
+              "subpointDescription": "In batch OS, jobs with similar needs are batched together and run as a group."
+            },
+            {
+              "subpointTitle": "• Time-sharing OS",
+              "subpointDescription": "Time-sharing OS enables many people, located at various terminals, to use a particular computer system at the same time."
+            },
+            {
+              "subpointTitle": "• Distributed OS",
+              "subpointDescription": "Distributed system use multiple central processor to serve multiple real-time applications and multiple users. Processor in a distributed system may vary in size and function."
+            },
+            {
+              "subpointTitle": "• Network OS",
+              "subpointDescription": "A Network OS runs on a server and provides the server the capability to manage data, users, groups, security, applications, and other networking functions. Network OS allows shared file and printer access among multiple computers in a network like LAN."
+            },
+            {
+              "subpointTitle": "• Real-time OS",
+              "subpointDescription": "Real-time OS is a data processing system in which the time interval required to process and respond to an inputs is so small that it controls the environment. There are two types of real-time OS are: Hard real-time system and Soft real-time system."
+            }
+          ]
+        }
+      ],
+      "completion": false,
+      "bookmark": false
+    },
+    {
+      "id": 2,
+      "type": "QuestionPointsDescriptionPoints",
+      "question": "Classification of OS based on User interface",
+      "description": "The two main types of the user interface are:",
+      "image": "",
+      "points": [
+        {
+          "pointTitle": "1. Graphical User Interface(GUI):",
+          "pointDescription": "A Graphical User Interface allows the user to enter commands by pointing and clicking at objects that appears on the screen. The main advantage of GUI is that they are easy to use, especially for a beginner. The main disadvantage is the amount of memory space they need.",
+          "subPoints": [
+            {
+              "subpointTitle": "Features of GUI are:",
+              "subpointDescription": "GUI interface is easy to operate and user friendly."
+            },
+            {
+              "subpointTitle": "",
+              "subpointDescription": "Users don't need to remember all the commands."
+            },
+            {
+              "subpointTitle": "",
+              "subpointDescription": "It requires a larger memory space and faster processors to operate."
+            },
+            {
+              "subpointTitle": "",
+              "subpointDescription": "GUI is capable of operating multitasking, multiprogramming, and multiuser systems."
+            },
+            {
+              "subpointTitle": "",
+              "subpointDescription": "GUI environment is full of multimedia operation and animation."
+            }
+          ]
+        },
+        {
+          "pointTitle": "2. Character/Command User Interface(CUI):",
+          "pointDescription": "In CUI, in order to communicate with the computer, the user has to instruct the computer in special commands(words). DOS is very commonly used CUI. The main advantage is that it can be quick to use as long as the correct commands. The main disadvantage is that they are very difficult to use if the user is a beginner or doesn't known the correct commands.",
+          "subPoints": [
+            {
+              "subpointTitle": "Features of CUI are:",
+              "subpointDescription": "CUI is less user-friendly than GUI."
+            },
+            {
+              "subpointTitle": "",
+              "subpointDescription": "Commands are used to instruct the computer."
+            },
+            {
+              "subpointTitle": "",
+              "subpointDescription": "It is much faster than GUI based systems."
+            },
+            {
+              "subpointTitle": "",
+              "subpointDescription": "It can be used in low memory and low processing speed computers."
+            },
+            {
+              "subpointTitle": "",
+              "subpointDescription": "It cannot display graphics, icons, pictures, multimedia, etc."
+            }
+          ]
+        }
+      ],
+      "completion": false,
+      "bookmark": false
+    },
+    {
+      "id": 3,
+      "type": "QuestionAnswerPoints",
+      "question": "Windows 10/11 Basic",
+      "image": "",
+      "answer": "In basic you will learn the following topics: Cut/Copy/Paste",
+      "points": [
+        {
+          "To Copy and Paste File:": [
+            "Step 1: Right click on the desired file/folder.",
+            "Step 2: Choose, Copy option from the pop-up menu.",
+            "Step 3: Go to the location where you want to move that file.",
+            "Step 4: Right click on the open space.",
+            "Step 5: Now, Click on paste button."
+          ]
+        },
+        {
+          "To Cut and Paste File:": [
+            "Step 1: Right Click on the desired file/folder.",
+            "Step 2: Then, Choose Cut option from the menu.",
+            "Step 3: Go to the desired location. Step 4: Right click on the open space.",
+            "Step 4: Now, Click on paste button.",
+            "OR, Simply, press Ctrl + X and move to the desired location. And, press Ctrl + v."
+          ]
+        }
+      ],
+      "completion": false,
+      "bookmark": false
+    },
+    {
+      "id": 4,
+      "type": "QuestionAnswerPoints",
+      "question": "How to use USB Drive?",
+      "image": "",
+      "answer": "USB Drive is a type of digital storage device designed to store files. Moreover, a USB drive is a small external device that plugs into laptop, computers, and phone in order to save digital data. They are commonly used for saving data, transferring files between devices, and data backup. They come in multiple storage capacities and different ports, each having unique shape. Using a USB drive can differ depending on the type of computer that you want to connect to. SO, as you have USB drive compatible with your computer.:",
+      "points": [
+        {
+          "Now, follow the given steps to insert USB Drive in your computer:": [
+            "Step 1: Find the USB port in your device.",
+            "Step 2: Insert the USB Drive in the USB port.",
+            "Step 3: Open the USB drive on your computer.",
+            "Step 4: Find the file you want and move it. OR, send the file to USB.",
+            "Step 5: Close all the files and eject the drive.",
+            "Step 6: Remove the USB drive from your computer."
+          ]
+        }
+      ],
+      "completion": false,
+      "bookmark": false
+    },
+    {
+      "id": 5,
+      "type": "QuestionAnswerPoints",
+      "question": "Change Date and Time",
+      "image": "",
+      "answer": "To change the date and time, there is different steps to be follow in Window 10 and 11. So, follow the step according to your Window.",
+      "points": [
+        {
+          "To change date and time in Window 10 are given below:": [
+            "Step 1: Right click on the clock in the taskbar and select adjust date/time.",
+            "Step 2: You'll be directed to Time & language tab in Setting app.",
+            "Step 3: Make sure Set time automatically switch is ON. That will synchronize the time on your PC with the one on the Microsoft Time Server.",
+            "Step 4: Next, you'll see the Related Setting section.",
+            "Step 5: Click on the link Date, time & regional formatting to modify the format according to your needs.",
+            "Step 6: The date and time you choose are now set up on your PC."
+          ]
+        },
+        {
+          "To change date and time in window 11 are given below:": [
+            "Step 1: Right click on the clock in the taskbar and select adjust date/time.",
+            "Step 2: You'll be directed to Date & Time menu from Settings.",
+            "Step 3: Make sure Set time automatically switch is ON.",
+            "Step 4: Now, click on the Sync now button.",
+            "Step 5: Additionally, click on the Language and region option if you want to modify the region and format for showing the time and date."
+          ]
+        }
+      ],
+      "completion": false,
+      "bookmark": false
+    },
+    {
+      "id": 6,
+      "type": "QuestionAnswerPoints",
+      "question": "Change Theme",
+      "image": "",
+      "answer": "A theme is a collection of backgrounds and sounds, along with accent color and mouse pointer style.",
+      "points": [
+        {
+          "Following are the steps to change the theme of your Window:": [
+            "Step 1: Select 'Setting' from Start.",
+            "Step 2: Click on Personalization.",
+            "Step 3: Now, Click on Theme tab.",
+            "Step 4: Select theme from the list. Your selected theme is applied."
+          ]
+        }
+      ],
+      "completion": false,
+      "bookmark": false
+    },
+    {
+      "id": 7,
+      "type": "QuestionAnswerPoints",
+      "question": "MS Paint Drawing Guide",
+      "image": "",
+      "answer": "",
+      "points": [
+        {
+          "": [
+            "Step 1: Open MS Paint by searching for it in the Start Menu or by pressing the Windows key + R and typing in “mspaint”.",
+            "Step 2: Set the canvas size to something suitable for your drawing. You can do this in the Home tab in the Resize section.",
+            "Step 3: Choose a pen size and color from the Tools tab.",
+            "Step 4: Start drawing with the brush tool. You can draw basic shapes, lines, and curves and also use the fill tool to fill in areas with a single color.",
+            "Step 5: Use the eraser tool to erase mistakes.",
+            "Step 6: Add text to your drawing using the Text tool.",
+            "Step 7: When you're finished, save your drawing in a file format of your choice (JPEG, PNG, etc.) and you're done."
+          ]
+        }
+      ],
+      "completion": false,
+      "bookmark": false
+    },
+    {
+      "id": 8,
+      "type": "QuestionAnswerPoints",
+      "question": "WordPad",
+      "image": "",
+      "answer": "Microsoft WordPad is a free rich text editor and word processor available in every version of Microsoft's operating systems since Windows 95. It can be used to create and modify documents. Although slower to load than Notepad, it can handle graphics and rich formatting, unlike notepad.",
+      "points": [
+        {
+          "To create and Save New Document": [
+            "Step 1: First open MS WordPad by pressing Windows Key and typing WordPad in search box.",
+            "Step 2: Select File.",
+            "Step 3: Choose New.",
+            "Step 4: Type text.",
+            "Step 5: Click File.",
+            "Step 6: Click Save.",
+            "Step 7: Click Browse Folders for more options.",
+            "Step 8: Click to select the folder in which you want to save the document.",
+            "Step 9: Type a filename for the document.",
+            "Step 10: Click Save."
+          ]
+        }
+      ],
+      "completion": false,
+      "bookmark": false
+    },
+    {
+      "id": 9,
+      "type": "QuestionAnswerPoints",
+      "question": "Image and Multimedia",
+      "image": "",
+      "answer": "",
+      "points": [
+        {
+          "Taking Screenshot- There are plenty ways of taking screenshot on your PC.": [
+            "Step 1: Press the combo key: Windows Key + Shift + S.",
+            "Step 2: Press Window key + PrtScn Keys.",
+            "Step 3: Press Window key + G."
+          ]
+        },
+        {
+          "Scanning Image": [
+            "Step 1: Launch your computer's image-editing software.",
+            "Step 2: Connect your scanner to the computer.",
+            "Step 3: Insert the document or picture you want to scan into the scanner.",
+            "Step 4: Select the type of scan you want to perform.",
+            "Step 5: Adjust the scan settings, such as color depth, resolution, and file format.",
+            "Step 6: Click the 'Scan' button.",
+            "Step 7: Save the image to your computer."
+          ]
+        }
+      ],
+      "completion": false,
+      "bookmark": false
+    },
+    {
+      "id": 10,
+      "type": "QuestionPointsAnswer",
+      "question": "Print Guide",
+      "image": "link",
+      "points": [
+        {
+          "": [
+            "Step 1: Print the document you want to print.",
+            "Step 2: Select the printer you want to use.",
+            "Step 3: Check the printer settings to make sure they are correct.",
+            "Step 4: Click on the “Print” button or command.",
+            "Step 5: Check to make sure the document printed correctly."
+          ]
+        }
+      ],
+      "completion": false,
+      "bookmark": false
+    },
+    {
+      "id": 11,
+      "type": "QuestionAnswer",
+      "question": "Play Video File",
+      "image": "",
+      "answer": "To play a video file on a computer, you will need to have the appropriate media player installed. Popular media players for computers include Windows Media Player, QuickTime, and VLC Media Player. Once you have the media player installed, you can open the video file with the media player by double-clicking on the file or by selecting the file from within the media player.",
+      "completion": false,
+      "bookmark": false
+    },
+    {
+      "id": 12,
+      "type": "QuestionPointsDescriptionPoints",
+      "question": "Port in Computer",
+      "description": "A computer port is a physical connection point on the computer that enables it to connect to other devices, such as printers, external hard drives, and keyboards. A computer connector is a physical interface between two electronic components that allows data to be exchanged between them.",
+      "image": "",
+      "points": [
+        {
+          "pointTitle": "Some of the port in computer are:",
+          "pointDescription": "",
+          "subPoints": [
+            {
+              "subpointTitle": "- HDMI (High Definition Multimedia Interface)",
+              "subpointDescription": "It is an all-digital-audio-video interface which transmits signals in uncompressed format ."
+            },
+            {
+              "subpointTitle": "- Parallel Port",
+              "subpointDescription": "Parallel port is a type of interface which is used for connecting peripherals in computer. Parallel ports send multiple bits of data at once (parallel communication), as opposed to serial communication, in which bits are sent one at a time."
+            },
+            {
+              "subpointTitle": "- Serial Port",
+              "subpointDescription": "A serial port, enables a line to be connected that will send bits one after the other on a single line. Serial ports are used principally for communications lines, modems, and mice."
+            },
+            {
+              "subpointTitle": "- Universal Serial Bus(USB)",
+              "subpointDescription": "USB is a serial bus standard to connect devices to a host computer. It was designed to allow many peripherals to be connected to the computer."
+            },
+            {
+              "subpointTitle": "- Expansion Slot",
+              "subpointDescription": "An expansion slot is a connection or port inside a computer on the motherboard. It provides an installation point for a hardware expansion card to be connected."
+            }
+          ]
+        }
+      ],
+      "completion": false,
+      "bookmark": false
+    }
+  ]
+}
