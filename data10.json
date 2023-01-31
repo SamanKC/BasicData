@@ -1,0 +1,251 @@
+{
+    "id": 7,
+    "title": "Computer Protection",
+    "resources": [
+      {
+        "id": 1,
+        "type": "QuestionPointsDescriptionPoints",
+        "question": "Introduction",
+        "description": "Computer protection refers to the measures or steps that are taken to secure and protect a computer and its data from therats such as virus, malware, hacking, and other security vulnerabilities.",
+        "image": "",
+        "points": [
+          {
+            "pointTitle": "Some protection measures are:",
+            "pointDescription": "",
+            "subPoints": [
+              {
+                "subpointTitle": "- Antivirus Software:",
+                "subpointDescription": "Antivirus software is a program that is designed to detect and remove viruses and other malicious software from a computer. It is important to keep your antivirus software up to date to ensure that it can protect against the latest threats."
+              },
+              {
+                "subpointTitle": "- Strong Password:",
+                "subpointDescription": "Using strong, unique passwords for all of your accounts is important for protecting your data. A strong password should consists of combination of letters, numbers, and special characters. Avoid using easily guessable passwords, such as 'password' or '123456,' and consider using a password manager to help you generate and store strong passwords."
+              },
+              {
+                "subpointTitle": "-Backups:",
+                "subpointDescription": "Regularly backing up your data can help to protect against data loss due to hardware failure, malware attacks, or other disasters. A backup is a copy of your data that is stored separately from the original data, so that it can be used to restore the data if it is lost or corrupted. It is important to keep multiple copies of your backups in different locations."
+              },
+              {
+                "subpointTitle": "-Network Security:",
+                "subpointDescription": "Network security involves protecting a computer or group of computers from threats that originate from other computers on the same network. This can include measures such as implementing a firewall, using secure protocols for communication, and securing wireless networks."
+              },
+              {
+                "subpointTitle": "- Physical Security:",
+                "subpointDescription": "Protecting a computer from physical threats, such as theft or damage, can be important for maintaining the security of the data stored on it."
+              },
+              {
+                "subpointTitle": "- User access Control:",
+                "subpointDescription": "Implementing user access control measures can help to prevent unauthorized users from accessing a computer or its data. This can include measures such as requring password before logging in, and imiting access to certain resources or data based on the user's permissions."
+              }
+            ]
+          }
+        ],
+        "completion": false,
+        "bookmark": false
+      },
+      {
+        "id": 2,
+        "type": "QuestionPointsDescriptionPoints",
+        "question": "Network Security",
+        "description": "Network security refers to the protection of a computer or group of computers from threats that originate from other computers on the same network. This can include measures such as implementing a firewall, using secure protocols for communication, and securing wireless networks. Network security is important because it keeps sensitive data safe from cyber attacks and ensures that network is secure, usableSan and trustworthy. There are several types of threats that network security measures are designed to protect against, including malware, viruses, and unauthorized access to data. Unauthorized acess to data from network can steal the sensitive information. To protect against these and other threats, network security measures can include the use of firewalls, secure protocols, network segmentation, access control measures, and wireless security measures.",
+        "image": "",
+        "points": [
+          {
+            "pointTitle": "Some measures of network security are:",
+            "pointDescription": "",
+            "subPoints": [
+              {
+                "subpointTitle": "- Firewall:",
+                "subpointDescription": "It is a security system that controls incoming and outgoing network traffic based on predetermined security rules. It is designed to protect a computer or network from malicious traffic and attacks."
+              },
+              {
+                "subpointTitle": "- Strong Password:",
+                "subpointDescription": "Using strong, unique passwords for all of your accounts is important for protecting your data. A strong password should consists of combination of letters, numbers, and special characters. Avoid using easily guessable passwords, such as 'password' or '123456,' and consider using a password manager to help you generate and store strong passwords."
+              },
+              {
+                "subpointTitle": "-Backups:",
+                "subpointDescription": "Regularly backing up your data can help to protect against data loss due to hardware failure, malware attacks, or other disasters. A backup is a copy of your data that is stored separately from the original data, so that it can be used to restore the data if it is lost or corrupted. It is important to keep multiple copies of your backups in different locations."
+              },
+              {
+                "subpointTitle": "-Network Security:",
+                "subpointDescription": "Network security involves protecting a computer or group of computers from threats that originate from other computers on the same network. This can include measures such as implementing a firewall, using secure protocols for communication, and securing wireless networks."
+              },
+              {
+                "subpointTitle": "- Physical Security:",
+                "subpointDescription": "Protecting a computer from physical threats, such as theft or damage, can be important for maintaining the security of the data stored on it."
+              },
+              {
+                "subpointTitle": "- User access Control:",
+                "subpointDescription": "Implementing user access control measures can help to prevent unauthorized users from accessing a computer or its data. This can include measures such as requring password before logging in, and imiting access to certain resources or data based on the user's permissions."
+              }
+            ]
+          }
+        ],
+        "completion": false,
+        "bookmark": false
+      },
+      {
+        "id": 3,
+        "type": "QuestionPointsDescriptionPoints",
+        "question": "Virus",
+        "description": "A computer virus is a malicious program that is designed to replicate and spread from one computer to another. Like biological viruses, computer viruses can infect a wide range of hosts, including computers, servers, and mobile devices. They are usually created by hackers with the intention of damaging computer systems or to steal data. Computer viruses typically spread through the use of infected files or attachments, email messages, or instant messages. They can also be downloaded from infected websites or spread through removable media, such as USB drives or external hard drives. Once a computer is infected with a virus, it can cause a range of issues, such as slowing down your computer, crashing programs, and even deleting files. Some viruses can even capture keystrokes or monitor your activities, allowing hackers to gain access to confidential information. Some examples of computer viruses are:",
+        "image": "",
+        "points": [
+          {
+            "pointTitle": "- Ransomware:",
+            "pointDescription": "A ransomware attack is a type of malicious software (malware) that infects a computer and restricts access to it until a ransom is paid. It can spread through infected files or attachments, email messages, and instant messages.",
+            "subPoints": [
+              {
+                "subpointTitle": "",
+                "subpointDescription": ""
+              }
+            ]
+          },{
+            "pointTitle": "- Trojan:",
+            "pointDescription": "A Trojan is a type of virus that disguises itself as a legitimate program or file. When a user downloads and runs the Trojan, it can execute its code and perform malicious actions on the victim's computer.",
+            "subPoints": [
+              {
+                "subpointTitle": "",
+                "subpointDescription": ""
+              }
+            ]
+          },{
+            "pointTitle": "- Spyware:",
+            "pointDescription": "It is a type of virus that tracks a victim's online activity and collects personal information without their knowledge.",
+            "subPoints": [
+              {
+                "subpointTitle": "",
+                "subpointDescription": ""
+              }
+            ]
+          },{
+            "pointTitle": "- Adware:",
+            "pointDescription": "It is a type of virus that displays unwanted advertisements on a victim's computer. Some examples of how viruses can be spread:",
+            "subPoints": [
+              {
+                "subpointTitle": "- Email Attachments:",
+                "subpointDescription": "A virus can be spread through email attachments, such as Word documents or PDF files, that are infected with the virus. When the user opens the infected attachment, the virus can execute its code and infect the user's computer."
+              },
+              {
+                "subpointTitle": "- Network Sharing:",
+                "subpointDescription": "A virus can be spread through network sharing, such as when a user shares files or a printer with other users on the same network. If one of the users has an infected computer, the virus can spread to other computers on the network."
+              },
+              {
+                "subpointTitle": "- Removable Device:",
+                "subpointDescription": "A virus can be spread through removable media, such as USB drives or external hard drives, that are infected with the virus."
+              },
+              {
+                "subpointTitle": "- Infected Websites:",
+                "subpointDescription": "A virus can be spread through infected websites, which may contain malicious code that can execute when the user visits the site."
+              }
+            ]
+          }
+        ],
+        "completion": false,
+        "bookmark": false
+      },
+      {
+        "id": 4,
+        "type": "QuestionPointsDescriptionPoints",
+        "question": "Antivirus",
+        "description": "Antivirus is a computer program designed to protect computers from malicious software, such as viruses, worms, and Trojans. Antivirus software works by scanning the files and programs on a computer for signs of infection, and taking action to remove any detected threats. It is an essential tool for protecting a computer against viruses and other malware. To be effective, antivirus software must be kept up to date with the latest virus definitions and security updates.",
+        "image": "",
+        "points": [
+          {
+            "pointTitle": "Some examples of antivirus are:",
+            "pointDescription": "",
+            "subPoints": [
+              {
+                "subpointTitle": "- McAfee",
+                "subpointDescription": ""
+              },
+              {
+                "subpointTitle": "- Symantec Norton",
+                "subpointDescription": ""
+              },
+              {
+                "subpointTitle": "- Kaspersky",
+                "subpointDescription": ""
+              },
+              {
+                "subpointTitle": "- ESET",
+                "subpointDescription": ""
+              },
+              {
+                "subpointTitle": "",
+                "subpointDescription": "They all are well known antivirus software program that is available for both personal and business use. They offer a range of features, including real-time protection, email protection, and internet security."
+              }
+            ]
+          }
+        ],
+        "completion": false,
+        "bookmark": false
+      },
+      {
+        "id": 5,
+        "type": "QuestionPointsDescriptionPoints",
+        "question": "Data Backup",
+        "description": "Data backup is the process of creating a copy of important data to protect it from loss or damage. Data backup is an essential part of any disaster recovery plan, as it allows you to restore your data in the event of a data loss incident, such as a hardware failure or a cyber attack.",
+        "image": "",
+        "points": [
+          {
+            "pointTitle": "Different way of data backup are:",
+            "pointDescription": "",
+            "subPoints": [
+              {
+                "subpointTitle": "- Local Backup:",
+                "subpointDescription": "This involves creating a copy of your data on a separate storage device, such as an external hard drive or a USB drive. Local backups are useful for quickly restoring lost data, but they are vulnerable to physical damage and theft."
+              },
+              {
+                "subpointTitle": "- Cloud Backup:",
+                "subpointDescription": "This involves creating a copy of your data on a remote server. Cloud backups are useful for protecting against data loss due to hardware failure, but they may be vulnerable to cyber attacks."
+              },
+              {
+                "subpointTitle": "- Hybrid Backup:",
+                "subpointDescription": "This involves creating a copy of your data on both a local storage device and a remote server. Hybrid backups combine the benefits of local and cloud backups, providing both fast restore times and protection against data loss due to hardware failure or cyber attacks."
+              },
+              {
+                "subpointTitle": "",
+                "subpointDescription": "It is important to regularly back up your data, as well as to test your backups to ensure that they are working properly. It is also a good idea to keep multiple copies of your data in different locations, in case one copy is lost or damaged."
+              }
+            ]
+          }
+        ],
+        "completion": false,
+        "bookmark": false
+      },
+      {
+        "id": 6,
+        "type": "QuestionPointsDescriptionPoints",
+        "question": "Data Recovery",
+        "description": "Data Recovery refers to the plan and processes for restoring lost or damaged data. It typically involves a combination of hardware and software tools and techniques to scan the affected storage media, identify the lost data, and recover it. Data backup also plays vital role in recovery of data.",
+        "image": "",
+        "points": [
+          {
+            "pointTitle": "There are different methods for recovering data, depending on the cause of the data loss and the condition of the storage device. Some common methods for data recovery include:",
+            "pointDescription": "",
+            "subPoints": [
+              {
+                "subpointTitle": "- File recovery software:",
+                "subpointDescription": "This type of software is designed to scan a storage device for recoverable data and restore the data to a usable form. File recovery software can often recover data that has been deleted or lost due to a hardware failure or a software issue."
+              },
+              {
+                "subpointTitle": "- Physical Recovery:",
+                "subpointDescription": "This involves physically repairing a damaged storage device. Physical recovery is often necessary when a storage device has suffered physical damage, such as a head crash or a broken platter."
+              },
+              {
+                "subpointTitle": "- Data Carving:",
+                "subpointDescription": "This involves analyzing a storage device for fragments of recoverable data and piecing them together to reconstruct the lost data. Data carving is often used to recover data from damaged or partially overwritten storage devices."
+              },
+              {
+                "subpointTitle": "",
+                "subpointDescription": "Data recovery can be a complex and time-consuming process, and the success of the recovery often depends on the extent of the damage and the quality of the data recovery tools and techniques used. It is important to work with a professional data recovery service to ensure the best possible chances of success."
+              }
+            ]
+          }
+        ],
+        "completion": false,
+        "bookmark": false
+      }
+    ]
+  }
